@@ -1,0 +1,17 @@
+"metric","value"
+"analytic_n",3168
+"smokers",821
+"nonsmokers",2347
+"matched_pairs",704
+"mean_hcy_smokers_unmatched",9.29370280146163
+"mean_hcy_controls_unmatched",7.93473370259906
+"unmatched_difference",1.35896909886257
+"mean_hcy_smokers_matched",9.11740056818182
+"mean_hcy_controls_matched",8.34071022727273
+"att_hcy_difference",0.776690340909091
+"att_ci_lower",0.271377785603565
+"att_ci_upper",1.28200289621462
+"paired_t_pvalue",0.0026385422360921
+"mean_cotinine_smokers_matched",238.892967329546
+"mean_cotinine_controls_matched",17.2743565340909
+"caliper",0.209605865797299

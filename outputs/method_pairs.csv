@@ -1,0 +1,2321 @@
+"method","pair_id","smoker_seqn","control_seqn","smoker_hcy","control_hcy","hcy_difference"
+"Exact on age group + sex",1,36251,34040,11.19,23.73,-12.54
+"Exact on age group + sex",2,39592,36066,12.4,6.84,5.56
+"Exact on age group + sex",3,39659,35079,6.9,10.1,-3.2
+"Exact on age group + sex",4,36328,34281,6.43,7.74,-1.31
+"Exact on age group + sex",5,38826,33001,9.74,12.2,-2.46
+"Exact on age group + sex",6,38970,33153,15.33,15.87,-0.539999999999999
+"Exact on age group + sex",7,34300,33096,19.5,10.1,9.4
+"Exact on age group + sex",8,36211,31893,21.99,8.29,13.7
+"Exact on age group + sex",9,37874,32068,18.78,12.17,6.61
+"Exact on age group + sex",10,31546,31531,10,10.9,-0.9
+"Exact on age group + sex",11,38725,31846,10.8,9.46,1.34
+"Exact on age group + sex",12,40118,33006,12,14.61,-2.61
+"Exact on age group + sex",13,40124,34674,18.7,14.7,4
+"Exact on age group + sex",14,31736,31808,11.3,21.6,-10.3
+"Exact on age group + sex",15,37460,31379,11.9,8.78,3.12
+"Exact on age group + sex",16,31400,32414,12,10.56,1.44
+"Exact on age group + sex",17,36482,32969,11.6,13.6,-2
+"Exact on age group + sex",18,33642,31307,39.73,8.69,31.04
+"Exact on age group + sex",19,38611,32039,14.7,5.77,8.93
+"Exact on age group + sex",20,38969,31746,7.96,11.28,-3.32
+"Exact on age group + sex",21,39792,32003,9.3,10.65,-1.35
+"Exact on age group + sex",22,34855,31279,11.81,16.4,-4.59
+"Exact on age group + sex",23,35313,32808,6.45,9.13,-2.68
+"Exact on age group + sex",24,35324,33543,12.08,7.29,4.79
+"Exact on age group + sex",25,35882,33725,25.5,18.9,6.6
+"Exact on age group + sex",26,38703,34711,9.96,7.41,2.55
+"Exact on age group + sex",27,37069,32743,10.92,8.49,2.43
+"Exact on age group + sex",28,38651,33594,15.1,11.28,3.82
+"Exact on age group + sex",29,39060,31707,6.85,11.7,-4.85
+"Exact on age group + sex",30,40002,34293,8.02,11.3,-3.28
+"Exact on age group + sex",31,34819,32687,17.1,6.53,10.57
+"Exact on age group + sex",32,36112,33420,9.15,7.21,1.94
+"Exact on age group + sex",33,38071,34050,8.69,6.68,2.01
+"Exact on age group + sex",34,31508,31134,11.1,8.2,2.9
+"Exact on age group + sex",35,31972,31294,10.47,14,-3.53
+"Exact on age group + sex",36,40008,34873,16.3,9.94,6.36
+"Exact on age group + sex",37,40515,35121,8.65,9.94,-1.29
+"Exact on age group + sex",38,41267,35547,9.08,10.83,-1.75
+"Exact on age group + sex",39,36291,31190,9.37,11.64,-2.27
+"Exact on age group + sex",40,37457,32120,7.23,13.34,-6.11
+"Exact on age group + sex",41,40190,32440,19,14.15,4.85
+"Exact on age group + sex",42,40286,35092,8.87,7.28,1.59
+"Exact on age group + sex",43,31158,35673,8.87,23.6,-14.73
+"Exact on age group + sex",44,32858,31162,12.08,8.18,3.9
+"Exact on age group + sex",45,34849,32629,23.55,8.32,15.23
+"Exact on age group + sex",46,37389,36223,15.1,7.53,7.57
+"Exact on age group + sex",47,39785,33925,12.9,7.08,5.82
+"Exact on age group + sex",48,33324,31132,8.37,8.96,-0.590000000000002
+"Exact on age group + sex",49,34647,31762,9.94,7.69,2.25
+"Exact on age group + sex",50,34911,33419,8.61,11.9,-3.29
+"Exact on age group + sex",51,35465,31257,8.78,7.84,0.94
+"Exact on age group + sex",52,36339,31393,7.43,9.62,-2.19
+"Exact on age group + sex",53,39638,33478,7.62,7.12,0.5
+"Exact on age group + sex",54,40387,33356,7.88,11.1,-3.22
+"Exact on age group + sex",55,41127,34477,10.38,7.92,2.46
+"Exact on age group + sex",56,31380,34569,13.9,8.45,5.45
+"Exact on age group + sex",57,31548,34575,6.87,22.2,-15.33
+"Exact on age group + sex",58,32696,35493,11.7,10.65,1.05
+"Exact on age group + sex",59,34114,38658,10.9,10.3,0.6
+"Exact on age group + sex",60,34393,40152,7.92,8.92,-1
+"Exact on age group + sex",61,35999,32140,9.58,10,-0.42
+"Exact on age group + sex",62,37329,32443,7.06,8.37,-1.31
+"Exact on age group + sex",63,38673,33928,16.2,7.66,8.54
+"Exact on age group + sex",64,40485,33071,10.1,8.32,1.78
+"Exact on age group + sex",65,40954,35407,12.6,11.1,1.5
+"Exact on age group + sex",66,35766,36390,11.3,8.88,2.42
+"Exact on age group + sex",67,37652,36478,10.1,10.4,-0.300000000000001
+"Exact on age group + sex",68,40172,38027,8.09,14.79,-6.7
+"Exact on age group + sex",69,40711,38509,13.4,7.14,6.26
+"Exact on age group + sex",70,31345,32586,9.21,12.9,-3.69
+"Exact on age group + sex",71,31945,38759,6.62,8.92,-2.3
+"Exact on age group + sex",72,33383,40369,10.9,11.19,-0.289999999999999
+"Exact on age group + sex",73,34726,32681,18.69,11.8,6.89
+"Exact on age group + sex",74,35237,31301,8.06,8.3,-0.24
+"Exact on age group + sex",75,37887,32972,12.08,7.64,4.44
+"Exact on age group + sex",76,39454,33726,9.63,8.83,0.800000000000001
+"Exact on age group + sex",77,40643,34756,13.9,5.91,7.99
+"Exact on age group + sex",78,40930,33002,9.05,7.2,1.85
+"Exact on age group + sex",79,33235,35961,11.3,6.73,4.57
+"Exact on age group + sex",80,35144,36401,13.5,6.89,6.61
+"Exact on age group + sex",81,35181,31559,8.78,8.58,0.199999999999999
+"Exact on age group + sex",82,35385,32042,11.4,6.98,4.42
+"Exact on age group + sex",83,35408,36699,10.4,8.34,2.06
+"Exact on age group + sex",84,35564,32716,10.8,8.19,2.61
+"Exact on age group + sex",85,35745,36908,10.2,7.11,3.09
+"Exact on age group + sex",86,36847,37646,11.9,7.37,4.53
+"Exact on age group + sex",87,38575,38065,8.78,6.42,2.36
+"Exact on age group + sex",88,39271,38125,13.2,8.36,4.84
+"Exact on age group + sex",89,39277,38466,18.6,9.13,9.47
+"Exact on age group + sex",90,41194,32989,15.51,7.24,8.27
+"Exact on age group + sex",91,41468,34934,7.82,6.76,1.06
+"Exact on age group + sex",92,31278,32254,11.6,17.8,-6.2
+"Exact on age group + sex",93,32066,32588,12.4,12.6,-0.199999999999999
+"Exact on age group + sex",94,32268,32727,10.83,14.51,-3.68
+"Exact on age group + sex",95,32859,31573,7.74,11.19,-3.45
+"Exact on age group + sex",96,33945,34084,5.76,20.1,-14.34
+"Exact on age group + sex",97,33972,34234,10.4,17.5,-7.1
+"Exact on age group + sex",98,34090,36159,12.7,14.8,-2.1
+"Exact on age group + sex",99,34586,36853,8.38,8.69,-0.309999999999999
+"Exact on age group + sex",100,36319,37727,11.64,10.1,1.54
+"Exact on age group + sex",101,38100,31744,7.46,10.21,-2.75
+"Exact on age group + sex",102,39511,31946,7.33,8.18,-0.85
+"Exact on age group + sex",103,40110,33591,7.94,6.26,1.68
+"Exact on age group + sex",104,41005,37871,8.46,9.18,-0.719999999999999
+"Exact on age group + sex",105,31407,32618,10.9,10.6,0.300000000000001
+"Exact on age group + sex",106,31464,31227,7.68,4.8,2.88
+"Exact on age group + sex",107,32615,33895,12.8,7.81,4.99
+"Exact on age group + sex",108,32918,34202,7.47,22.8,-15.33
+"Exact on age group + sex",109,32984,38773,6.38,9.58,-3.2
+"Exact on age group + sex",110,33971,34353,9.94,26.5,-16.56
+"Exact on age group + sex",111,34086,38980,10.83,8.87,1.96
+"Exact on age group + sex",112,34150,39003,5.84,11.3,-5.46
+"Exact on age group + sex",113,34649,39048,12.8,10.4,2.4
+"Exact on age group + sex",114,36351,33321,6.75,8.52,-1.77
+"Exact on age group + sex",115,36747,35071,7.01,10.9,-3.89
+"Exact on age group + sex",116,37455,33527,10.1,7.43,2.67
+"Exact on age group + sex",117,37648,34319,9.58,10.29,-0.709999999999999
+"Exact on age group + sex",118,38028,35416,11.2,12.1,-0.9
+"Exact on age group + sex",119,38032,36311,7.9,7.61,0.29
+"Exact on age group + sex",120,38388,36356,8.96,8.81,0.15
+"Exact on age group + sex",121,38617,37815,11.37,10.4,0.969999999999999
+"Exact on age group + sex",122,39215,36638,15.1,12.9,2.2
+"Exact on age group + sex",123,39872,38138,10.12,8.63,1.49
+"Exact on age group + sex",124,31625,39323,11.2,12.6,-1.4
+"Exact on age group + sex",125,32355,41436,8.35,12,-3.65
+"Exact on age group + sex",126,32688,31425,7.4,5.51,1.89
+"Exact on age group + sex",127,34514,31273,11,10.4,0.6
+"Exact on age group + sex",128,35349,31498,6.38,7.04,-0.66
+"Exact on age group + sex",129,35891,31441,10.9,8.69,2.21
+"Exact on age group + sex",130,35958,31721,8.43,5.71,2.72
+"Exact on age group + sex",131,36398,32008,6.95,5.96,0.99
+"Exact on age group + sex",132,36518,32118,9.76,16,-6.24
+"Exact on age group + sex",133,37091,32283,8.78,7.97,0.81
+"Exact on age group + sex",134,39877,33400,22.54,7.67,14.87
+"Exact on age group + sex",135,40383,34607,15.5,6.15,9.35
+"Exact on age group + sex",136,41192,34483,9.4,6.53,2.87
+"Exact on age group + sex",137,41218,35573,9.4,5.43,3.97
+"Exact on age group + sex",138,31154,35094,45.2,7.54,37.66
+"Exact on age group + sex",139,31877,36506,15.1,9.4,5.7
+"Exact on age group + sex",140,32459,31358,9.32,7.15,2.17
+"Exact on age group + sex",141,32908,31592,8.37,8.4,-0.0300000000000011
+"Exact on age group + sex",142,33207,31830,15,10.1,4.9
+"Exact on age group + sex",143,33474,32113,6.7,5.43,1.27
+"Exact on age group + sex",144,34557,37030,10.6,6.52,4.08
+"Exact on age group + sex",145,34762,37311,12.9,11.46,1.44
+"Exact on age group + sex",146,34813,32298,7.26,7.11,0.149999999999999
+"Exact on age group + sex",147,35624,33871,11.1,13.34,-2.24
+"Exact on age group + sex",148,35936,37806,11.55,11.64,-0.0899999999999999
+"Exact on age group + sex",149,36539,38745,8.79,6.68,2.11
+"Exact on age group + sex",150,36614,39086,11,14.4,-3.4
+"Exact on age group + sex",151,37494,40703,7.65,13.52,-5.87
+"Exact on age group + sex",152,38689,31223,9.82,8.18,1.64
+"Exact on age group + sex",153,38936,31382,9.32,8.66,0.66
+"Exact on age group + sex",154,39340,32245,10.56,11.5,-0.94
+"Exact on age group + sex",155,40211,34107,15.1,6.27,8.83
+"Exact on age group + sex",156,40396,34590,12,7.97,4.03
+"Exact on age group + sex",157,31993,31277,6.94,10.47,-3.53
+"Exact on age group + sex",158,32517,34703,9.51,6.5,3.01
+"Exact on age group + sex",159,33263,37129,12.3,13.4,-1.1
+"Exact on age group + sex",160,33696,37465,10.6,8.43,2.17
+"Exact on age group + sex",161,34507,37793,10.4,7.67,2.73
+"Exact on age group + sex",162,38937,31343,11.1,7.72,3.38
+"Exact on age group + sex",163,39772,38987,7.02,6.31,0.71
+"Exact on age group + sex",164,39796,31457,11.9,7.1,4.8
+"Exact on age group + sex",165,39997,40025,13.52,8.85,4.67
+"Exact on age group + sex",166,40235,33467,9.99,7.56,2.43
+"Exact on age group + sex",167,40585,34470,8.86,7.7,1.16
+"Exact on age group + sex",168,32015,31388,7.57,6.6,0.970000000000001
+"Exact on age group + sex",169,32239,31795,5.49,5.46,0.0300000000000002
+"Exact on age group + sex",170,34184,36247,11.2,12.4,-1.2
+"Exact on age group + sex",171,34223,36830,8.29,8.69,-0.4
+"Exact on age group + sex",172,34419,37147,11.19,7.93,3.26
+"Exact on age group + sex",173,36197,31800,11.19,7.73,3.46
+"Exact on age group + sex",174,37964,39116,9.85,11.73,-1.88
+"Exact on age group + sex",175,38143,31966,7.71,7.36,0.35
+"Exact on age group + sex",176,39093,39147,12,7.79,4.21
+"Exact on age group + sex",177,39278,39248,15.33,9.4,5.93
+"Exact on age group + sex",178,39335,39502,19,11.4,7.6
+"Exact on age group + sex",179,39343,32200,10.56,5.89,4.67
+"Exact on age group + sex",180,39892,40317,11.9,7.47,4.43
+"Exact on age group + sex",181,31308,32230,13.1,8.12,4.98
+"Exact on age group + sex",182,31399,32891,6.92,11.8,-4.88
+"Exact on age group + sex",183,31437,32014,9.49,15.24,-5.75
+"Exact on age group + sex",184,31527,35764,9.14,23.82,-14.68
+"Exact on age group + sex",185,33604,32017,8.87,7.76,1.11
+"Exact on age group + sex",186,35957,33597,16.1,8.29,7.81
+"Exact on age group + sex",187,36081,33660,19.3,10.65,8.65
+"Exact on age group + sex",188,36464,36075,12.17,7.83,4.34
+"Exact on age group + sex",189,38580,37071,10.8,9.95,0.850000000000001
+"Exact on age group + sex",190,38824,33960,7.27,8.16,-0.890000000000001
+"Exact on age group + sex",191,39695,34965,6.75,4.02,2.73
+"Exact on age group + sex",192,31781,32013,7.96,9.05,-1.09
+"Exact on age group + sex",193,31787,31242,14.6,6.77,7.83
+"Exact on age group + sex",194,32601,33005,7.09,7.06,0.0300000000000002
+"Exact on age group + sex",195,32749,33691,11.8,8.9,2.9
+"Exact on age group + sex",196,34673,34209,21.3,5.78,15.52
+"Exact on age group + sex",197,36057,31820,7.28,7.96,-0.68
+"Exact on age group + sex",198,38614,32770,8.56,11.1,-2.54
+"Exact on age group + sex",199,40122,34504,7.03,11.7,-4.67
+"Exact on age group + sex",200,41149,33144,7.85,7.8,0.0499999999999998
+"Exact on age group + sex",201,31434,33934,10.7,7.06,3.64
+"Exact on age group + sex",202,33565,34284,9.94,9.87,0.0700000000000003
+"Exact on age group + sex",203,33838,31285,9.14,8.96,0.18
+"Exact on age group + sex",204,34574,31807,10.03,17.96,-7.93
+"Exact on age group + sex",205,38597,34405,11.2,9.49,1.71
+"Exact on age group + sex",206,40606,41236,11.1,8.52,2.58
+"Exact on age group + sex",207,40683,32270,8.96,7.15,1.81
+"Exact on age group + sex",208,41326,41450,7.78,10.1,-2.32
+"Exact on age group + sex",209,31274,32550,46.9,6.96,39.94
+"Exact on age group + sex",210,33331,31232,7.7,6.06,1.64
+"Exact on age group + sex",211,34627,35863,9.05,7.07,1.98
+"Exact on age group + sex",212,34851,36209,8.5,9.83,-1.33
+"Exact on age group + sex",213,38910,38262,7.31,8.44,-1.13
+"Exact on age group + sex",214,40351,32690,5.2,9.76,-4.56
+"Exact on age group + sex",215,40850,39761,8.49,20,-11.51
+"Exact on age group + sex",216,31468,31567,9.14,12.26,-3.12
+"Exact on age group + sex",217,31779,34578,9.33,9.85,-0.52
+"Exact on age group + sex",218,32360,31334,7.3,9.7,-2.4
+"Exact on age group + sex",219,32388,36038,9.95,8.02,1.93
+"Exact on age group + sex",220,32531,37751,12.7,9.15,3.55
+"Exact on age group + sex",221,32632,31344,9.58,7.43,2.15
+"Exact on age group + sex",222,32742,38235,8.16,7.35,0.81
+"Exact on age group + sex",223,35329,38243,8.61,10.4,-1.79
+"Exact on age group + sex",224,36257,31396,6.39,7.48,-1.09
+"Exact on age group + sex",225,37151,33247,6.83,7.05,-0.22
+"Exact on age group + sex",226,37697,33806,8.82,5.86,2.96
+"Exact on age group + sex",227,38055,39016,8.69,7.61,1.08
+"Exact on age group + sex",228,38801,40302,6.54,19.6,-13.06
+"Exact on age group + sex",229,40474,40963,7.21,11.99,-4.78
+"Exact on age group + sex",230,40977,31164,12.17,9.68,2.49
+"Exact on age group + sex",231,41014,33694,9.23,8.46,0.77
+"Exact on age group + sex",232,31452,31221,11.9,6.8,5.1
+"Exact on age group + sex",233,31843,33563,7,5.36,1.64
+"Exact on age group + sex",234,31962,33736,5.95,6.57,-0.62
+"Exact on age group + sex",235,32897,33784,10.2,5.89,4.31
+"Exact on age group + sex",236,35686,34042,19.7,6.3,13.4
+"Exact on age group + sex",237,36087,33761,7.29,9.41,-2.12
+"Exact on age group + sex",238,36499,33949,12.1,8.52,3.58
+"Exact on age group + sex",239,36502,34145,9.92,7.67,2.25
+"Exact on age group + sex",240,37708,34642,10.92,10.3,0.619999999999999
+"Exact on age group + sex",241,38280,34864,9.32,47.74,-38.42
+"Exact on age group + sex",242,38508,34877,9.58,7.05,2.53
+"Exact on age group + sex",243,39180,34962,10.2,11.2,-1
+"Exact on age group + sex",244,40459,35067,10.5,6.88,3.62
+"Exact on age group + sex",245,31304,31520,4.93,12.53,-7.6
+"Exact on age group + sex",246,32179,31213,8.07,12.7,-4.63
+"Exact on age group + sex",247,32358,33500,9.22,8.61,0.610000000000001
+"Exact on age group + sex",248,32924,34581,15.2,10.21,4.99
+"Exact on age group + sex",249,33709,37074,7.32,6.67,0.65
+"Exact on age group + sex",250,34901,38384,19.51,16.78,2.73
+"Exact on age group + sex",251,35455,31620,9.33,6.01,3.32
+"Exact on age group + sex",252,36469,38426,6.16,7.23,-1.07
+"Exact on age group + sex",253,37031,32216,9.18,8.56,0.619999999999999
+"Exact on age group + sex",254,37440,39141,6.5,8.26,-1.76
+"Exact on age group + sex",255,37628,41319,10.9,8.13,2.77
+"Exact on age group + sex",256,39732,31570,10.83,6.72,4.11
+"Exact on age group + sex",257,39755,31691,11.64,8.82,2.82
+"Exact on age group + sex",258,40637,32619,8.02,12.4,-4.38
+"Exact on age group + sex",259,41238,34203,9.36,6.16,3.2
+"Exact on age group + sex",260,31577,31524,6.93,7.97,-1.04
+"Exact on age group + sex",261,33168,34534,9.58,8.56,1.02
+"Exact on age group + sex",262,33328,34700,9.33,9.9,-0.57
+"Exact on age group + sex",263,34165,31804,9.4,5.86,3.54
+"Exact on age group + sex",264,35290,35080,12.6,7.48,5.12
+"Exact on age group + sex",265,37616,35312,10.8,12.8,-2
+"Exact on age group + sex",266,38819,32591,9.93,8.63,1.3
+"Exact on age group + sex",267,40921,35298,10.4,7.52,2.88
+"Exact on age group + sex",268,41255,38800,9.67,7.11,2.56
+"Exact on age group + sex",269,31752,31979,9.83,7.5,2.33
+"Exact on age group + sex",270,31764,31496,5.92,6.82,-0.9
+"Exact on age group + sex",271,32436,31517,5.88,6.36,-0.48
+"Exact on age group + sex",272,32959,31926,7.22,5.65,1.57
+"Exact on age group + sex",273,33751,32175,33,10.21,22.79
+"Exact on age group + sex",274,35685,32592,8.95,11.46,-2.51
+"Exact on age group + sex",275,35810,33162,6.89,10.2,-3.31
+"Exact on age group + sex",276,35880,33099,9.74,7.02,2.72
+"Exact on age group + sex",277,36845,33201,7.74,8.87,-1.13
+"Exact on age group + sex",278,36873,33377,10.56,7.29,3.27
+"Exact on age group + sex",279,37352,34254,7.68,5.36,2.32
+"Exact on age group + sex",280,37916,33307,9.69,6.7,2.99
+"Exact on age group + sex",281,37954,34875,16.9,4.14,12.76
+"Exact on age group + sex",282,39199,33917,14.4,8.4,6
+"Exact on age group + sex",283,39646,34128,11.28,5.56,5.72
+"Exact on age group + sex",284,40790,35133,9.49,7.3,2.19
+"Exact on age group + sex",285,31486,31220,12.8,8.37,4.43
+"Exact on age group + sex",286,33200,32488,5.3,9.94,-4.64
+"Exact on age group + sex",287,33585,31483,10.2,6.76,3.44
+"Exact on age group + sex",288,33634,31748,6.58,11.7,-5.12
+"Exact on age group + sex",289,33798,32295,9,8.52,0.48
+"Exact on age group + sex",290,33965,33775,6.85,5.99,0.859999999999999
+"Exact on age group + sex",291,34152,33061,7.11,9.03,-1.92
+"Exact on age group + sex",292,34212,33496,4.83,10,-5.17
+"Exact on age group + sex",293,34710,34029,7.66,12.44,-4.78
+"Exact on age group + sex",294,34776,34220,5.74,10,-4.26
+"Exact on age group + sex",295,34996,34856,10.8,10.6,0.200000000000001
+"Exact on age group + sex",296,35214,37886,23.92,6.22,17.7
+"Exact on age group + sex",297,35424,34344,8.87,6.39,2.48
+"Exact on age group + sex",298,35529,38494,8.61,12.53,-3.92
+"Exact on age group + sex",299,35679,38653,7.79,9.11,-1.32
+"Exact on age group + sex",300,36986,35077,6.47,6.98,-0.510000000000001
+"Exact on age group + sex",301,37792,39092,8.12,8.69,-0.57
+"Exact on age group + sex",302,39054,35781,9.49,7.98,1.51
+"Exact on age group + sex",303,39154,35808,6.82,5.86,0.96
+"Exact on age group + sex",304,39363,35902,10.21,6.35,3.86
+"Exact on age group + sex",305,39535,35927,6.51,7.13,-0.62
+"Exact on age group + sex",306,39930,39626,7.88,5.74,2.14
+"Exact on age group + sex",307,40759,39799,6.07,8,-1.93
+"Exact on age group + sex",308,40965,40544,9.24,12,-2.76
+"Exact on age group + sex",309,31471,31261,5.92,8.59,-2.67
+"Exact on age group + sex",310,31958,32917,6.82,7.21,-0.39
+"Exact on age group + sex",311,32127,34292,16.96,5.62,11.34
+"Exact on age group + sex",312,32812,34731,9.78,6.6,3.18
+"Exact on age group + sex",313,33121,31391,7.68,9.67,-1.99
+"Exact on age group + sex",314,33876,31590,9.23,7.76,1.47
+"Exact on age group + sex",315,34303,33476,13.1,13.34,-0.24
+"Exact on age group + sex",316,34450,34759,11.7,9.4,2.3
+"Exact on age group + sex",317,35473,35035,7.65,8.15,-0.5
+"Exact on age group + sex",318,35888,35081,7.39,7.3,0.0899999999999999
+"Exact on age group + sex",319,36268,35397,5.43,16.1,-10.67
+"Exact on age group + sex",320,37957,36362,9.32,5.76,3.56
+"Exact on age group + sex",321,38995,36436,5.65,7.19,-1.54
+"Exact on age group + sex",322,39113,37038,6.82,15.4,-8.58
+"Exact on age group + sex",323,39158,36653,8.32,9.43,-1.11
+"Exact on age group + sex",324,40408,37155,9.76,7.65,2.11
+"Exact on age group + sex",325,40608,38214,11.01,9.27,1.74
+"Exact on age group + sex",326,40995,39213,12.62,10.65,1.97
+"Exact on age group + sex",327,41063,39432,8.69,11.46,-2.77
+"Exact on age group + sex",328,31372,31725,7.09,5.77,1.32
+"Exact on age group + sex",329,31913,32467,6.93,7.21,-0.28
+"Exact on age group + sex",330,31994,31661,12.44,8.51,3.93
+"Exact on age group + sex",331,32071,33754,8.7,10,-1.3
+"Exact on age group + sex",332,32947,34256,8.27,6.25,2.02
+"Exact on age group + sex",333,33562,32565,4.99,5.26,-0.27
+"Exact on age group + sex",334,33616,34637,6.86,8.96,-2.1
+"Exact on age group + sex",335,33744,33978,31.5,8.18,23.32
+"Exact on age group + sex",336,34311,35023,7.11,6.34,0.77
+"Exact on age group + sex",337,34500,35128,8.37,4.83,3.54
+"Exact on age group + sex",338,34781,35202,6.9,7.26,-0.359999999999999
+"Exact on age group + sex",339,37132,36132,8.49,6.66,1.83
+"Exact on age group + sex",340,37718,35225,8.87,10.8,-1.93
+"Exact on age group + sex",341,37930,35607,14.79,13.16,1.63
+"Exact on age group + sex",342,39298,37599,4.74,5.49,-0.75
+"Exact on age group + sex",343,39436,37601,9.6,12.4,-2.8
+"Exact on age group + sex",344,41191,38017,7.7,7.11,0.59
+"Exact on age group + sex",345,31813,31194,5.57,5.32,0.25
+"Exact on age group + sex",346,33191,31503,9.34,6.9,2.44
+"Exact on age group + sex",347,33192,31208,7.36,8.09,-0.73
+"Exact on age group + sex",348,35078,31324,6.33,7.32,-0.99
+"Exact on age group + sex",349,35567,31649,8,6.15,1.85
+"Exact on age group + sex",350,38752,31799,145,8.63,136.37
+"Exact on age group + sex",351,38803,33770,6.9,6.64,0.260000000000001
+"Exact on age group + sex",352,39884,32138,8.28,9.21,-0.930000000000001
+"Exact on age group + sex",353,41089,32163,8.34,6.39,1.95
+"Exact on age group + sex",354,41447,32709,10.65,6.44,4.21
+"Exact on age group + sex",355,31186,31491,6.98,6.59,0.390000000000001
+"Exact on age group + sex",356,32212,31831,5.15,8.55,-3.4
+"Exact on age group + sex",357,33154,32573,7.91,8.78,-0.869999999999999
+"Exact on age group + sex",358,33319,31658,8.08,6.5,1.58
+"Exact on age group + sex",359,33506,31859,4.81,4.79,0.0199999999999996
+"Exact on age group + sex",360,33730,33088,28.7,7.06,21.64
+"Exact on age group + sex",361,33745,33240,6.46,8.22,-1.76
+"Exact on age group + sex",362,34207,33464,6.74,6.21,0.53
+"Exact on age group + sex",363,34540,33469,7.64,8.73,-1.09
+"Exact on age group + sex",364,34822,33627,13.97,7.48,6.49
+"Exact on age group + sex",365,35007,33866,5.65,3.9,1.75
+"Exact on age group + sex",366,35062,33669,8.23,7.77,0.460000000000001
+"Exact on age group + sex",367,35691,34004,10.6,8.88,1.72
+"Exact on age group + sex",368,36601,33998,6.73,17.4,-10.67
+"Exact on age group + sex",369,37385,34144,7.74,7.37,0.37
+"Exact on age group + sex",370,37387,35055,10.7,5.6,5.1
+"Exact on age group + sex",371,38186,35157,16,16.96,-0.960000000000001
+"Exact on age group + sex",372,38345,35646,8.32,7.79,0.53
+"Exact on age group + sex",373,40153,36164,9.58,8.25,1.33
+"Exact on age group + sex",374,40308,36292,10.38,6.39,3.99
+"Exact on age group + sex",375,31386,31432,7.95,5.52,2.43
+"Exact on age group + sex",376,31767,31706,5.03,5.97,-0.94
+"Exact on age group + sex",377,32214,31717,8.11,5.19,2.92
+"Exact on age group + sex",378,32577,32609,7.42,7.01,0.41
+"Exact on age group + sex",379,33662,32713,8.46,6.5,1.96
+"Exact on age group + sex",380,33797,32986,6.86,5.47,1.39
+"Exact on age group + sex",381,34499,33117,8.61,7.97,0.64
+"Exact on age group + sex",382,34641,33357,11.55,8.2,3.35
+"Exact on age group + sex",383,34661,33223,7.87,11.9,-4.03
+"Exact on age group + sex",384,35709,33715,7.87,9.46,-1.59
+"Exact on age group + sex",385,35805,33347,12.08,5.5,6.58
+"Exact on age group + sex",386,36294,33492,8.3,8.03,0.270000000000001
+"Exact on age group + sex",387,36428,34398,5.23,10.8,-5.57
+"Exact on age group + sex",388,36883,34956,7.89,8.7,-0.81
+"Exact on age group + sex",389,37078,33847,10.1,7.56,2.54
+"Exact on age group + sex",390,37640,35186,7.51,5.97,1.54
+"Exact on age group + sex",391,37996,34897,5.27,6.29,-1.02
+"Exact on age group + sex",392,38472,37056,10.5,9.14,1.36
+"Exact on age group + sex",393,38786,37353,15.42,8.29,7.13
+"Exact on age group + sex",394,38797,37545,8.18,8.23,-0.0500000000000007
+"Exact on age group + sex",395,39061,35255,11.1,9.58,1.52
+"Exact on age group + sex",396,39802,35287,6.25,4.42,1.83
+"Exact on age group + sex",397,40460,36171,8.87,5.48,3.39
+"Exact on age group + sex",398,40534,37565,10.3,9.3,1
+"Exact on age group + sex",399,40569,36336,6.73,6.34,0.390000000000001
+"Exact on age group + sex",400,31640,31131,7.67,9.33,-1.66
+"Exact on age group + sex",401,32950,33080,9.46,7.13,2.33
+"Exact on age group + sex",402,33635,33228,5.66,14.33,-8.67
+"Exact on age group + sex",403,34111,33425,7.42,5.74,1.68
+"Exact on age group + sex",404,34283,31662,8.89,7.19,1.7
+"Exact on age group + sex",405,34662,31976,4.41,5.93,-1.52
+"Exact on age group + sex",406,35171,33762,8.69,7.84,0.85
+"Exact on age group + sex",407,36148,34080,8.78,6.43,2.35
+"Exact on age group + sex",408,37131,32036,12.35,7.56,4.79
+"Exact on age group + sex",409,37541,34231,8.78,6.64,2.14
+"Exact on age group + sex",410,37778,32597,8.88,6.75,2.13
+"Exact on age group + sex",411,37823,34333,8.32,10.1,-1.78
+"Exact on age group + sex",412,37936,34683,6.44,9.75,-3.31
+"Exact on age group + sex",413,38314,34728,9.32,11.6,-2.28
+"Exact on age group + sex",414,39411,33485,15.6,6.15,9.45
+"Exact on age group + sex",415,39464,34183,5.93,5.11,0.819999999999999
+"Exact on age group + sex",416,39935,36554,5.77,11.4,-5.63
+"Exact on age group + sex",417,40200,34326,7.32,6.09,1.23
+"Exact on age group + sex",418,40596,37187,6.76,9.49,-2.73
+"Exact on age group + sex",419,40739,34501,4.68,6.86,-2.18
+"Exact on age group + sex",420,40925,34906,7.71,7.6,0.11
+"Exact on age group + sex",421,32334,32296,10.56,10.1,0.460000000000001
+"Exact on age group + sex",422,32564,32566,10.4,6.33,4.07
+"Exact on age group + sex",423,32691,33283,10.6,6.21,4.39
+"Exact on age group + sex",424,32706,34123,6.25,9.32,-3.07
+"Exact on age group + sex",425,32745,31156,6.32,6.58,-0.26
+"Exact on age group + sex",426,32925,36674,6.14,7.45,-1.31
+"Exact on age group + sex",427,33426,36761,12.5,7.75,4.75
+"Exact on age group + sex",428,33827,31205,8.07,4.21,3.86
+"Exact on age group + sex",429,35488,38659,9.85,10.38,-0.530000000000001
+"Exact on age group + sex",430,35525,39334,10.3,8.03,2.27
+"Exact on age group + sex",431,35770,32197,9.35,5.2,4.15
+"Exact on age group + sex",432,35838,40688,7.84,6.92,0.92
+"Exact on age group + sex",433,36714,31410,10.1,8.5,1.6
+"Exact on age group + sex",434,37279,33756,16.78,6.73,10.05
+"Exact on age group + sex",435,37426,34235,53.2,6.46,46.74
+"Exact on age group + sex",436,39378,34886,6.31,4.32,1.99
+"Exact on age group + sex",437,40828,33081,5.56,8.56,-3
+"Exact on age group + sex",438,41044,36011,4.43,5.47,-1.04
+"Exact on age group + sex",439,41107,36133,9.07,8.09,0.98
+"Exact on age group + sex",440,31529,32136,4.19,5.15,-0.96
+"Exact on age group + sex",441,32857,32256,17.7,5.57,12.13
+"Exact on age group + sex",442,34935,33275,8.61,9.9,-1.29
+"Exact on age group + sex",443,35655,33374,10.21,11.01,-0.799999999999999
+"Exact on age group + sex",444,35856,33910,6.75,12.9,-6.15
+"Exact on age group + sex",445,36070,35213,6.17,6.39,-0.22
+"Exact on age group + sex",446,37533,35410,10.1,6.69,3.41
+"Exact on age group + sex",447,37659,32368,6.75,7.02,-0.27
+"Exact on age group + sex",448,39028,36525,7.1,10.21,-3.11
+"Exact on age group + sex",449,39058,36815,11.2,9.53,1.67
+"Exact on age group + sex",450,39782,37454,7.67,5.65,2.02
+"Exact on age group + sex",451,41223,32717,7.32,5.96,1.36
+"Exact on age group + sex",452,31778,31290,16.3,5.85,10.45
+"Exact on age group + sex",453,32001,32359,6.04,8.81,-2.77
+"Exact on age group + sex",454,32813,32477,4.83,6.88,-2.05
+"Exact on age group + sex",455,32868,32636,7.67,6.22,1.45
+"Exact on age group + sex",456,33230,31833,8.97,5.26,3.71
+"Exact on age group + sex",457,33437,32112,7.38,14.3,-6.92
+"Exact on age group + sex",458,33955,33073,9.8,7.33,2.47
+"Exact on age group + sex",459,34395,32997,6.18,11.1,-4.92
+"Exact on age group + sex",460,34797,33187,8.96,7,1.96
+"Exact on age group + sex",461,35729,33643,6.26,6.34,-0.0800000000000001
+"Exact on age group + sex",462,36176,35339,7.14,4.35,2.79
+"Exact on age group + sex",463,36400,36342,7.91,5.49,2.42
+"Exact on age group + sex",464,36915,33765,15.2,5.51,9.69
+"Exact on age group + sex",465,37326,37528,6.26,5.19,1.07
+"Exact on age group + sex",466,37879,34074,7.47,6.5,0.97
+"Exact on age group + sex",467,38236,34338,7.36,7.69,-0.33
+"Exact on age group + sex",468,38681,34530,8.39,8.21,0.18
+"Exact on age group + sex",469,40016,34597,9.06,7.58,1.48
+"Exact on age group + sex",470,40721,34915,7.96,8.61,-0.65
+"Exact on age group + sex",471,40908,35442,6.94,8.17,-1.23
+"Exact on age group + sex",472,41203,37608,5.11,8.46,-3.35
+"Exact on age group + sex",473,41306,35632,7.5,9.11,-1.61
+"Exact on age group + sex",474,31268,31518,6.12,4.83,1.29
+"Exact on age group + sex",475,31387,31585,5.39,4.87,0.52
+"Exact on age group + sex",476,32086,31429,8.61,8.34,0.27
+"Exact on age group + sex",477,32663,32204,6.86,7.63,-0.77
+"Exact on age group + sex",478,34310,32401,5.15,7.58,-2.43
+"Exact on age group + sex",479,34669,31608,8.08,9.85,-1.77
+"Exact on age group + sex",480,34790,31899,10.4,6.6,3.8
+"Exact on age group + sex",481,35722,32962,9.4,8.4,1
+"Exact on age group + sex",482,36839,32114,10.1,7.7,2.4
+"Exact on age group + sex",483,37283,32165,8.59,8.79,-0.199999999999999
+"Exact on age group + sex",484,37804,33177,8.05,5.06,2.99
+"Exact on age group + sex",485,37881,33221,6.42,6.42,0
+"Exact on age group + sex",486,38045,33778,10.6,8.53,2.07
+"Exact on age group + sex",487,38323,33181,7.22,9.39,-2.17
+"Exact on age group + sex",488,38920,33885,4.83,5.2,-0.37
+"Exact on age group + sex",489,39374,34885,5.94,7.11,-1.17
+"Exact on age group + sex",490,40058,34922,11.73,6.58,5.15
+"Exact on age group + sex",491,40404,35672,10.8,5.06,5.74
+"Exact on age group + sex",492,40890,36004,6.43,6.3,0.13
+"Exact on age group + sex",493,40980,36069,4.57,5.08,-0.51
+"Exact on age group + sex",494,41355,34742,4.21,10.9,-6.69
+"Exact on age group + sex",495,33020,31666,16.1,10.56,5.54
+"Exact on age group + sex",496,33487,32408,6.36,8.78,-2.42
+"Exact on age group + sex",497,33519,32605,11.6,7.63,3.97
+"Exact on age group + sex",498,34618,31160,5.88,7.98,-2.1
+"Exact on age group + sex",499,35268,32640,11.3,9.76,1.54
+"Exact on age group + sex",500,35500,31998,5.94,8.09,-2.15
+"Exact on age group + sex",501,36481,32910,8.13,6.05,2.08
+"Exact on age group + sex",502,36819,32946,7.7,9.58,-1.88
+"Exact on age group + sex",503,36969,33055,7.48,6.89,0.590000000000001
+"Exact on age group + sex",504,38591,33608,8.25,5.93,2.32
+"Exact on age group + sex",505,38701,34118,7.05,7.06,-0.00999999999999979
+"Exact on age group + sex",506,39032,32651,7.23,4.8,2.43
+"Exact on age group + sex",507,39569,32836,17.5,4.95,12.55
+"Exact on age group + sex",508,40321,34562,6.46,10.83,-4.37
+"Exact on age group + sex",509,41201,33748,4.86,5.34,-0.48
+"Exact on age group + sex",510,32931,31155,6.4,6.75,-0.35
+"Exact on age group + sex",511,33803,31690,8.84,4.66,4.18
+"Exact on age group + sex",512,34564,32135,4.8,8.4,-3.6
+"Exact on age group + sex",513,34577,31435,8.9,7.01,1.89
+"Exact on age group + sex",514,34768,32520,8.12,7.29,0.829999999999999
+"Exact on age group + sex",515,35577,32161,8.95,6.87,2.08
+"Exact on age group + sex",516,35910,32570,6.19,8.81,-2.62
+"Exact on age group + sex",517,36632,33186,7.98,6.61,1.37
+"Exact on age group + sex",518,37261,32382,8.52,5.65,2.87
+"Exact on age group + sex",519,37574,33256,7.9,7.01,0.890000000000001
+"Exact on age group + sex",520,40001,32759,5.49,4.44,1.05
+"Exact on age group + sex",521,40331,34208,7.97,9.12,-1.15
+"Exact on age group + sex",522,40685,34274,8.96,8.78,0.180000000000001
+"Exact on age group + sex",523,41300,33059,8.78,6.76,2.02
+"Exact on age group + sex",524,31167,31460,6.69,6.8,-0.109999999999999
+"Exact on age group + sex",525,32977,31582,8.95,10.12,-1.17
+"Exact on age group + sex",526,34078,31747,7.71,6.01,1.7
+"Exact on age group + sex",527,35895,31487,5.46,7.03,-1.57
+"Exact on age group + sex",528,36794,31724,8.11,4.74,3.37
+"Exact on age group + sex",529,36926,31948,5.68,11.5,-5.82
+"Exact on age group + sex",530,37271,31858,11.3,7.91,3.39
+"Exact on age group + sex",531,38464,34269,7.09,5.36,1.73
+"Exact on age group + sex",532,38802,32494,7.47,6.8,0.67
+"Exact on age group + sex",533,39599,34858,7.32,9.1,-1.78
+"Exact on age group + sex",534,41036,33289,8.52,8.1,0.42
+"Exact on age group + sex",535,32767,31276,8.15,11.1,-2.95
+"Exact on age group + sex",536,33270,31679,7.5,10.21,-2.71
+"Exact on age group + sex",537,33630,31700,4.22,4.28,-0.0600000000000005
+"Exact on age group + sex",538,34305,32208,6.2,5.9,0.3
+"Exact on age group + sex",539,34515,32405,9.18,4.01,5.17
+"Exact on age group + sex",540,36165,33026,8.31,7.91,0.4
+"Exact on age group + sex",541,36344,34051,7.65,9.4,-1.75
+"Exact on age group + sex",542,36865,34463,8.25,7.01,1.24
+"Exact on age group + sex",543,36899,33735,9.23,9.88,-0.65
+"Exact on age group + sex",544,37771,34456,3.77,5.36,-1.59
+"Exact on age group + sex",545,39452,35163,9.75,8.78,0.970000000000001
+"Exact on age group + sex",546,40310,36723,9.4,5.9,3.5
+"Exact on age group + sex",547,40671,37238,6.44,8.8,-2.36
+"Exact on age group + sex",548,40751,35091,5.62,5.31,0.31
+"Exact on age group + sex",549,40866,37269,8.59,7.92,0.67
+"Exact on age group + sex",550,41179,37354,9.05,9.79,-0.739999999999998
+"Exact on age group + sex",551,31847,31259,12.1,3.47,8.63
+"Exact on age group + sex",552,32141,31252,8.08,6.42,1.66
+"Exact on age group + sex",553,32251,31477,18.2,6.5,11.7
+"Exact on age group + sex",554,32287,32523,6.6,8.24,-1.64
+"Exact on age group + sex",555,33330,32081,6.22,8.2,-1.98
+"Exact on age group + sex",556,34394,33037,11.81,8.52,3.29
+"Exact on age group + sex",557,34454,33612,8.78,7.25,1.53
+"Exact on age group + sex",558,35056,32205,6.85,6.16,0.69
+"Exact on age group + sex",559,36249,32240,11.55,7,4.55
+"Exact on age group + sex",560,36575,34120,6.45,6.16,0.29
+"Exact on age group + sex",561,36851,34273,7.34,8.24,-0.9
+"Exact on age group + sex",562,37856,34336,7.99,9.49,-1.5
+"Exact on age group + sex",563,38149,34415,8.87,5.62,3.25
+"Exact on age group + sex",564,38178,34925,7.03,8.14,-1.11
+"Exact on age group + sex",565,38340,32338,12.3,6.47,5.83
+"Exact on age group + sex",566,38467,33014,4.11,3.4,0.71
+"Exact on age group + sex",567,38519,36117,7.51,8.88,-1.37
+"Exact on age group + sex",568,38556,33280,9.32,4.48,4.84
+"Exact on age group + sex",569,39020,39018,6.8,8.23,-1.43
+"Exact on age group + sex",570,39189,39082,7.1,6.46,0.64
+"Exact on age group + sex",571,39716,39311,10.8,9.14,1.66
+"Exact on age group + sex",572,39786,33659,7.83,6.66,1.17
+"Exact on age group + sex",573,40189,39512,9.69,7.21,2.48
+"Exact on age group + sex",574,40519,39566,9.85,6.72,3.13
+"Exact on age group + sex",575,31501,32037,11.37,7.9,3.47
+"Exact on age group + sex",576,32304,32324,9.4,11.9,-2.5
+"Exact on age group + sex",577,32386,32634,8.61,6.8,1.81
+"Exact on age group + sex",578,32668,31240,8.69,4.43,4.26
+"Exact on age group + sex",579,32892,33728,9.47,6.66,2.81
+"Exact on age group + sex",580,33413,31255,5.27,4.41,0.859999999999999
+"Exact on age group + sex",581,33629,32600,8.01,4.39,3.62
+"Exact on age group + sex",582,34824,33139,4.01,5.66,-1.65
+"Exact on age group + sex",583,34831,34325,8.78,7.23,1.55
+"Exact on age group + sex",584,35331,34354,5.49,6.73,-1.24
+"Exact on age group + sex",585,36772,34374,5.57,6,-0.43
+"Exact on age group + sex",586,36797,34474,5.46,6.01,-0.55
+"Exact on age group + sex",587,37336,34383,6.23,3.93,2.3
+"Exact on age group + sex",588,37561,34520,6.61,13.7,-7.09
+"Exact on age group + sex",589,38248,35021,11.73,10.5,1.23
+"Exact on age group + sex",590,38584,34653,13.5,4.34,9.16
+"Exact on age group + sex",591,39580,34687,8.02,7.07,0.949999999999999
+"Exact on age group + sex",592,39765,34798,5.68,4.03,1.65
+"Exact on age group + sex",593,39768,35266,7.75,7.01,0.74
+"Exact on age group + sex",594,40041,34955,5.47,3.68,1.79
+"Exact on age group + sex",595,40378,38038,9.36,9.09,0.27
+"Exact on age group + sex",596,31210,32104,11.7,7.79,3.91
+"Exact on age group + sex",597,33161,32835,6.3,8.42,-2.12
+"Exact on age group + sex",598,35180,31183,6.49,5.53,0.96
+"Exact on age group + sex",599,35188,32837,10.2,7.52,2.68
+"Exact on age group + sex",600,35750,33242,7.84,9.23,-1.39
+"Exact on age group + sex",601,36002,33777,12.1,7.36,4.74
+"Exact on age group + sex",602,37206,34214,4.77,8.15,-3.38
+"Exact on age group + sex",603,37425,34355,8.64,7.22,1.42
+"Exact on age group + sex",604,37986,31203,19.2,4.48,14.72
+"Exact on age group + sex",605,38134,36520,9.4,11,-1.6
+"Exact on age group + sex",606,39191,36965,6.7,8.02,-1.32
+"Exact on age group + sex",607,32363,32349,6.93,5.6,1.33
+"Exact on age group + sex",608,33190,31510,5.84,6.47,-0.63
+"Exact on age group + sex",609,33489,33092,6.89,6.59,0.3
+"Exact on age group + sex",610,33596,33206,4.23,6.89,-2.66
+"Exact on age group + sex",611,38162,31873,8.52,10.1,-1.58
+"Exact on age group + sex",612,40446,33272,9.93,6.16,3.77
+"Exact on age group + sex",613,32357,31699,8.63,5.89,2.74
+"Exact on age group + sex",614,32689,31439,6.99,4.86,2.13
+"Exact on age group + sex",615,32755,31922,7.43,8.05,-0.620000000000001
+"Exact on age group + sex",616,32922,31619,5.59,4.51,1.08
+"Exact on age group + sex",617,34838,31712,11.19,4.38,6.81
+"Exact on age group + sex",618,36050,32370,7.1,8.79,-1.69
+"Exact on age group + sex",619,38077,31985,5.88,4.52,1.36
+"Exact on age group + sex",620,38347,32650,5.9,7.85,-1.95
+"Exact on age group + sex",621,38418,32132,6.81,4.6,2.21
+"Exact on age group + sex",622,39259,32731,6.84,9.32,-2.48
+"Exact on age group + sex",623,39735,32180,6.28,4.16,2.12
+"Exact on age group + sex",624,40613,33095,8.22,6.06,2.16
+"Exact on age group + sex",625,40788,33845,6.13,6.33,-0.2
+"Exact on age group + sex",626,32150,31231,6.57,4.19,2.38
+"Exact on age group + sex",627,32303,31254,6.84,5.92,0.92
+"Exact on age group + sex",628,33249,32900,10.74,7,3.74
+"Exact on age group + sex",629,33529,31361,9.55,3.85,5.7
+"Exact on age group + sex",630,34401,33109,6.85,7.18,-0.33
+"Exact on age group + sex",631,35348,35342,9.4,9.4,0
+"Exact on age group + sex",632,35505,35395,9.24,8.05,1.19
+"Exact on age group + sex",633,35741,35796,7.92,6.34,1.58
+"Exact on age group + sex",634,36079,32055,5.22,4.19,1.03
+"Exact on age group + sex",635,36891,35829,10.4,7.05,3.35
+"Exact on age group + sex",636,37471,32133,7.97,5.49,2.48
+"Exact on age group + sex",637,38226,35915,11.5,9.14,2.36
+"Exact on age group + sex",638,38812,32964,6.42,6.3,0.12
+"Exact on age group + sex",639,40512,35919,7.9,7.17,0.73
+"Exact on age group + sex",640,40583,35989,7.89,12.5,-4.61
+"Exact on age group + sex",641,32491,31333,4.83,7.17,-2.34
+"Exact on age group + sex",642,32671,31708,42.6,4.15,38.45
+"Exact on age group + sex",643,33477,31420,5.98,5.04,0.94
+"Exact on age group + sex",644,33879,31863,5.11,6.24,-1.13
+"Exact on age group + sex",645,33880,31874,6.83,5.53,1.3
+"Exact on age group + sex",646,37006,31961,11.19,7.95,3.24
+"Exact on age group + sex",647,37111,32016,6.09,4.15,1.94
+"Exact on age group + sex",648,37257,33231,5.12,5.91,-0.79
+"Exact on age group + sex",649,38113,33681,5.75,7.53,-1.78
+"Exact on age group + sex",650,39883,32048,7.22,6.36,0.859999999999999
+"Exact on age group + sex",651,40743,32149,6.54,3.61,2.93
+"Exact on age group + sex",652,40791,32250,5.07,3.05,2.02
+"Exact on age group + sex",653,31363,31314,8.47,8.22,0.25
+"Exact on age group + sex",654,31522,32273,5.87,6.52,-0.65
+"Exact on age group + sex",655,32389,32385,8.96,5.28,3.68
+"Exact on age group + sex",656,33042,32722,7.77,8.2,-0.43
+"Exact on age group + sex",657,33060,34295,7.99,8.47,-0.48
+"Exact on age group + sex",658,33146,31530,5.6,7.33,-1.73
+"Exact on age group + sex",659,33360,35126,7.8,8.78,-0.98
+"Exact on age group + sex",660,33637,31740,7.94,3.56,4.38
+"Exact on age group + sex",661,34919,31822,5.43,3.45,1.98
+"Exact on age group + sex",662,35183,31996,7.83,6.95,0.88
+"Exact on age group + sex",663,35297,32085,12.44,4.76,7.68
+"Exact on age group + sex",664,35464,35391,5.9,5.03,0.87
+"Exact on age group + sex",665,35991,32583,6.52,6.96,-0.44
+"Exact on age group + sex",666,37089,32768,3.73,6.74,-3.01
+"Exact on age group + sex",667,37826,35713,6.87,8.27,-1.4
+"Exact on age group + sex",668,38105,32791,8,3.17,4.83
+"Exact on age group + sex",669,39300,36904,8.2,8.64,-0.440000000000001
+"Exact on age group + sex",670,40299,37817,7.91,7.58,0.33
+"Exact on age group + sex",671,41189,32849,5.49,7.08,-1.59
+"Exact on age group + sex",672,31350,31152,4.45,3.97,0.48
+"Exact on age group + sex",673,31739,31286,6.23,5.4,0.83
+"Exact on age group + sex",674,33011,31635,5.89,2.16,3.73
+"Exact on age group + sex",675,33130,31325,6.03,7.38,-1.35
+"Exact on age group + sex",676,36018,31793,11.5,4.64,6.86
+"Exact on age group + sex",677,36702,31547,5.02,5.97,-0.95
+"Exact on age group + sex",678,38554,33028,6.16,5.84,0.32
+"Exact on age group + sex",679,38601,33344,32.44,7.23,25.21
+"Exact on age group + sex",680,38965,32089,7.96,5.87,2.09
+"Exact on age group + sex",681,39279,35851,4.06,10.8,-6.74
+"Exact on age group + sex",682,39315,36639,8.89,10.9,-2.01
+"Exact on age group + sex",683,39435,32199,5.23,6.29,-1.06
+"Exact on age group + sex",684,39700,32246,4.8,4.12,0.68
+"Exact on age group + sex",685,39820,32478,9.85,8.27,1.58
+"Exact on age group + sex",686,32794,31470,3.94,5.65,-1.71
+"Exact on age group + sex",687,34141,33183,7.56,6.6,0.96
+"Exact on age group + sex",688,34291,33731,5.63,5.78,-0.15
+"Exact on age group + sex",689,34434,31816,4.89,4.57,0.319999999999999
+"Exact on age group + sex",690,36530,32115,6.23,5.29,0.94
+"Exact on age group + sex",691,36545,33743,9.18,8.23,0.949999999999999
+"Exact on age group + sex",692,36571,34168,9.67,10.83,-1.16
+"Exact on age group + sex",693,36944,34335,10.8,6.69,4.11
+"Exact on age group + sex",694,37969,35364,7.18,7.25,-0.0700000000000003
+"Exact on age group + sex",695,38506,36123,6.74,8.25,-1.51
+"Exact on age group + sex",696,39992,37308,9.01,6.18,2.83
+"Exact on age group + sex",697,40177,32162,5.71,5.71,0
+"Exact on age group + sex",698,40471,37664,6.47,9.63,-3.16
+"Exact on age group + sex",699,41093,32543,9.31,4.87,4.44
+"Exact on age group + sex",700,41147,37918,10.9,6.76,4.14
+"Exact on age group + sex",701,31751,31199,7.32,3.99,3.33
+"Exact on age group + sex",702,32241,32040,7.12,5.78,1.34
+"Exact on age group + sex",703,34020,32437,6.26,6.87,-0.61
+"Exact on age group + sex",704,34604,32509,6.25,5.94,0.31
+"Exact on age group + sex",705,35169,33821,6.57,8.69,-2.12
+"Exact on age group + sex",706,35584,33935,8.38,8.32,0.0600000000000005
+"Exact on age group + sex",707,36161,31321,6.17,4.25,1.92
+"Exact on age group + sex",708,36813,34108,12.2,5.43,6.77
+"Exact on age group + sex",709,36955,34363,6.74,6.02,0.720000000000001
+"Exact on age group + sex",710,37567,31821,8.03,2.58,5.45
+"Exact on age group + sex",711,38553,33645,4.1,5.79,-1.69
+"Exact on age group + sex",712,38817,34696,10.56,8.14,2.42
+"Exact on age group + sex",713,39417,33789,4.15,4.67,-0.52
+"Exact on age group + sex",714,39993,34370,5.21,6.24,-1.03
+"Exact on age group + sex",715,40095,34966,8.1,6.52,1.58
+"Exact on age group + sex",716,41185,34952,12.1,2.97,9.13
+"Exact on age group + sex",717,41303,34999,8.38,6.63,1.75
+"Exact on age group + sex",718,31980,31680,4.96,5.94,-0.98
+"Exact on age group + sex",719,33559,31837,6.64,2.62,4.02
+"Exact on age group + sex",720,33574,31317,6.66,9.37,-2.71
+"Exact on age group + sex",721,34377,32292,7.79,3.48,4.31
+"Exact on age group + sex",722,34640,32361,8.02,5.25,2.77
+"Exact on age group + sex",723,34719,32309,6.64,5.04,1.6
+"Exact on age group + sex",724,35261,32345,8.21,6.29,1.92
+"Exact on age group + sex",725,35497,32901,7.82,6.34,1.48
+"Exact on age group + sex",726,36350,32409,6.23,5.22,1.01
+"Exact on age group + sex",727,38203,32616,6.06,7.89,-1.83
+"Exact on age group + sex",728,38831,33029,5.37,6.9,-1.53
+"Exact on age group + sex",729,39780,32751,5.81,4.18,1.63
+"Exact on age group + sex",730,40427,33823,6.66,7.95,-1.29
+"Exact on age group + sex",731,40530,33379,6.64,3.11,3.53
+"Exact on age group + sex",732,40857,33967,6.68,5.2,1.48
+"Exact on age group + sex",733,31534,31973,6.76,7.6,-0.84
+"Exact on age group + sex",734,31550,32225,8.12,8.95,-0.83
+"Exact on age group + sex",735,32223,31212,6.16,6.17,-0.00999999999999979
+"Exact on age group + sex",736,32921,33852,6.89,6.18,0.71
+"Exact on age group + sex",737,33225,31415,5.12,7.01,-1.89
+"Exact on age group + sex",738,33376,31711,6.53,6.84,-0.31
+"Exact on age group + sex",739,33755,31839,6.55,3.45,3.1
+"Exact on age group + sex",740,34307,35280,8.48,7.95,0.53
+"Exact on age group + sex",741,34345,37002,6.65,10,-3.35
+"Exact on age group + sex",742,34848,37356,12.2,7.73,4.47
+"Exact on age group + sex",743,34867,37358,7.54,7.89,-0.35
+"Exact on age group + sex",744,35328,31871,10.1,5.36,4.74
+"Exact on age group + sex",745,35458,37985,6.36,5.63,0.73
+"Exact on age group + sex",746,35552,32183,7.61,4.38,3.23
+"Exact on age group + sex",747,35765,32560,6.24,6.24,0
+"Exact on age group + sex",748,36418,38087,19.6,9.14,10.46
+"Exact on age group + sex",749,36707,38493,6.37,4.81,1.56
+"Exact on age group + sex",750,36786,32881,6.22,2.86,3.36
+"Exact on age group + sex",751,36796,38501,9.93,5.17,4.76
+"Exact on age group + sex",752,37163,39428,9.14,6.67,2.47
+"Exact on age group + sex",753,37730,33657,6.65,8.27,-1.62
+"Exact on age group + sex",754,38222,40436,38,5.97,32.03
+"Exact on age group + sex",755,38374,40610,5.41,8.92,-3.51
+"Exact on age group + sex",756,38518,40729,6.39,13,-6.61
+"Exact on age group + sex",757,39004,41322,10.03,5.33,4.7
+"Exact on age group + sex",758,39081,33712,4.58,5.19,-0.61
+"Exact on age group + sex",759,39351,31702,9.85,6.18,3.67
+"Exact on age group + sex",760,40641,31888,5.24,7.91,-2.67
+"Exact on age group + sex",761,31681,31983,5.95,4.79,1.16
+"Exact on age group + sex",762,31936,31187,2.5,6.98,-4.48
+"Exact on age group + sex",763,32734,32122,7.51,8.42,-0.91
+"Exact on age group + sex",764,32838,32164,6.62,5.89,0.73
+"Exact on age group + sex",765,33468,33536,9.73,8.88,0.85
+"Exact on age group + sex",766,34052,33814,5.55,11.19,-5.64
+"Exact on age group + sex",767,34548,34986,6.04,7.03,-0.99
+"Exact on age group + sex",768,35381,36186,8.08,5.88,2.2
+"Exact on age group + sex",769,35504,31191,6.05,4.67,1.38
+"Exact on age group + sex",770,35571,31639,5.39,3.78,1.61
+"Exact on age group + sex",771,35678,36793,10.12,6.42,3.7
+"Exact on age group + sex",772,35755,32490,5.06,6.48,-1.42
+"Exact on age group + sex",773,35960,32513,5.14,5.15,-0.0100000000000007
+"Exact on age group + sex",774,35990,34041,4.58,5.96,-1.38
+"Exact on age group + sex",775,37244,34705,6,5.04,0.96
+"Exact on age group + sex",776,37573,37295,7.95,9.58,-1.63
+"Exact on age group + sex",777,37692,38527,7.28,5.74,1.54
+"Exact on age group + sex",778,38677,35336,5.84,6.6,-0.76
+"Exact on age group + sex",779,39794,38999,8.33,7.18,1.15
+"Exact on age group + sex",780,32198,31403,4.39,7.31,-2.92
+"Exact on age group + sex",781,32829,31144,5.42,7.97,-2.55
+"Exact on age group + sex",782,33414,31248,7.38,7.05,0.33
+"Exact on age group + sex",783,33582,31535,4.26,5.53,-1.27
+"Exact on age group + sex",784,35113,31870,8.04,8.87,-0.83
+"Exact on age group + sex",785,35134,32249,6.42,7.72,-1.3
+"Exact on age group + sex",786,35330,32429,6.45,7.38,-0.93
+"Exact on age group + sex",787,36178,32098,5.73,10.56,-4.83
+"Exact on age group + sex",788,36466,33082,5.38,3.58,1.8
+"Exact on age group + sex",789,36741,33409,7.84,7.83,0.00999999999999979
+"Exact on age group + sex",790,37383,33952,6.31,5.96,0.35
+"Exact on age group + sex",791,37418,33163,5.28,7.93,-2.65
+"Exact on age group + sex",792,38245,33227,5.08,4.52,0.56
+"Exact on age group + sex",793,38249,33371,3.74,5.43,-1.69
+"Exact on age group + sex",794,38429,34002,8.02,8.61,-0.59
+"Exact on age group + sex",795,38455,34163,12.8,7.31,5.49
+"Exact on age group + sex",796,38522,33372,7.79,3.95,3.84
+"Exact on age group + sex",797,38823,33841,6.69,7.62,-0.93
+"Exact on age group + sex",798,38915,34828,11.2,11.9,-0.700000000000001
+"Exact on age group + sex",799,39356,34929,7.38,8.65,-1.27
+"Exact on age group + sex",800,40651,33856,6.37,4.51,1.86
+"Exact on age group + sex",801,41338,33963,6.94,5.83,1.11
+"Exact on age group + sex",802,41437,35423,9.11,7.24,1.87
+"Exact on age group + sex",803,31921,31207,3.43,4.46,-1.03
+"Exact on age group + sex",804,31924,31406,5.02,4.58,0.44
+"Exact on age group + sex",805,32738,31258,5.93,7.47,-1.54
+"Exact on age group + sex",806,33239,31528,7.39,7.71,-0.32
+"Exact on age group + sex",807,33327,32396,11,14.79,-3.79
+"Exact on age group + sex",808,33518,33742,4.99,7.47,-2.48
+"Exact on age group + sex",809,33992,34037,6.24,7.4,-1.16
+"Exact on age group + sex",810,34068,34443,7.64,10.2,-2.56
+"Exact on age group + sex",811,34550,31533,6.79,5.52,1.27
+"Exact on age group + sex",812,35441,35554,9.36,13.2,-3.84
+"Exact on age group + sex",813,35621,31852,6.09,4.97,1.12
+"Exact on age group + sex",814,35703,35650,6.95,5.56,1.39
+"Exact on age group + sex",815,36045,31929,5.6,4.22,1.38
+"Exact on age group + sex",816,36177,32130,4.31,8.86,-4.55
+"Exact on age group + sex",817,36894,35760,7.71,9.2,-1.49
+"Exact on age group + sex",818,37536,36005,6.48,6.27,0.210000000000001
+"Exact on age group + sex",819,39272,37239,9.43,5.79,3.64
+"Exact on age group + sex",820,40020,37493,6.25,8.61,-2.36
+"Exact on age group + sex",821,41422,32378,6.14,11.73,-5.59
+"Exact on age group + sex + race, PS within strata",1,37881,33778,6.42,8.53,-2.11
+"Exact on age group + sex + race, PS within strata",2,37879,33081,7.47,8.56,-1.09
+"Exact on age group + sex + race, PS within strata",3,35655,36674,10.21,7.45,2.76
+"Exact on age group + sex + race, PS within strata",4,37533,33228,10.1,14.33,-4.23
+"Exact on age group + sex + race, PS within strata",5,35488,38859,9.85,9.05,0.799999999999999
+"Exact on age group + sex + race, PS within strata",6,35838,37715,7.84,7.28,0.56
+"Exact on age group + sex + race, PS within strata",7,34499,34637,8.61,8.96,-0.350000000000001
+"Exact on age group + sex + race, PS within strata",8,39335,31273,19,10.4,8.6
+"Exact on age group + sex + race, PS within strata",9,36539,36311,8.79,7.61,1.18
+"Exact on age group + sex + race, PS within strata",10,36518,38679,9.76,10.83,-1.07
+"Exact on age group + sex + race, PS within strata",11,31486,39422,12.8,9.23,3.57
+"Exact on age group + sex + race, PS within strata",12,34776,38243,5.74,10.4,-4.66
+"Exact on age group + sex + race, PS within strata",13,35348,39896,9.4,6.64,2.76
+"Exact on age group + sex + race, PS within strata",14,32738,31325,5.93,7.38,-1.45
+"Exact on age group + sex + race, PS within strata",15,37425,32104,8.64,7.79,0.85
+"Exact on age group + sex + race, PS within strata",16,38236,31899,7.36,6.6,0.760000000000001
+"Exact on age group + sex + race, PS within strata",17,41306,35531,7.5,6.76,0.74
+"Exact on age group + sex + race, PS within strata",18,39782,35572,7.67,6.39,1.28
+"Exact on age group + sex + race, PS within strata",19,38786,40725,15.42,7.14,8.28
+"Exact on age group + sex + race, PS within strata",20,34669,33283,8.08,6.21,1.87
+"Exact on age group + sex + race, PS within strata",21,34790,34333,10.4,10.1,0.300000000000001
+"Exact on age group + sex + race, PS within strata",22,34303,33223,13.1,11.9,1.2
+"Exact on age group + sex + race, PS within strata",23,36915,34398,15.2,10.8,4.4
+"Exact on age group + sex + race, PS within strata",24,38681,35186,8.39,5.97,2.42
+"Exact on age group + sex + race, PS within strata",25,32334,31831,10.56,8.55,2.01
+"Exact on age group + sex + race, PS within strata",26,35525,34004,10.3,8.88,1.42
+"Exact on age group + sex + race, PS within strata",27,40828,37766,5.56,10.1,-4.54
+"Exact on age group + sex + race, PS within strata",28,33635,33770,5.66,6.64,-0.98
+"Exact on age group + sex + race, PS within strata",29,34111,37212,7.42,9.44,-2.02
+"Exact on age group + sex + race, PS within strata",30,37936,38726,6.44,10.4,-3.96
+"Exact on age group + sex + race, PS within strata",31,36070,31429,6.17,8.34,-2.17
+"Exact on age group + sex + race, PS within strata",32,39028,32114,7.1,7.7,-0.6
+"Exact on age group + sex + race, PS within strata",33,36883,38758,7.89,6.97,0.92
+"Exact on age group + sex + race, PS within strata",34,37640,40702,7.51,8.2,-0.69
+"Exact on age group + sex + race, PS within strata",35,32950,35023,9.46,6.34,3.12
+"Exact on age group + sex + race, PS within strata",36,34419,33467,11.19,7.56,3.63
+"Exact on age group + sex + race, PS within strata",37,39278,36247,15.33,12.4,2.93
+"Exact on age group + sex + race, PS within strata",38,34661,31391,7.87,9.67,-1.8
+"Exact on age group + sex + race, PS within strata",39,35062,35035,8.23,8.15,0.0800000000000001
+"Exact on age group + sex + race, PS within strata",40,35691,40452,10.6,9.7,0.9
+"Exact on age group + sex + race, PS within strata",41,36398,32008,6.95,5.96,0.99
+"Exact on age group + sex + race, PS within strata",42,34086,37311,10.83,11.46,-0.630000000000001
+"Exact on age group + sex + race, PS within strata",43,31945,33527,6.62,7.43,-0.81
+"Exact on age group + sex + race, PS within strata",44,33696,37815,10.6,10.4,0.199999999999999
+"Exact on age group + sex + race, PS within strata",45,39772,41436,7.02,12,-4.98
+"Exact on age group + sex + race, PS within strata",46,37494,35961,7.65,6.73,0.92
+"Exact on age group + sex + race, PS within strata",47,39892,39147,11.9,7.79,4.11
+"Exact on age group + sex + race, PS within strata",48,37091,40369,8.78,11.19,-2.41
+"Exact on age group + sex + race, PS within strata",49,39997,32727,13.52,14.51,-0.99
+"Exact on age group + sex + race, PS within strata",50,38689,38065,9.82,6.42,3.4
+"Exact on age group + sex + race, PS within strata",51,39877,35407,22.54,11.1,11.44
+"Exact on age group + sex + race, PS within strata",52,32984,36390,6.38,8.88,-2.5
+"Exact on age group + sex + race, PS within strata",53,40637,31220,8.02,8.37,-0.35
+"Exact on age group + sex + race, PS within strata",54,39796,38364,11.9,11.1,0.800000000000001
+"Exact on age group + sex + race, PS within strata",55,33207,38700,15,6.71,8.29
+"Exact on age group + sex + race, PS within strata",56,40211,31744,15.1,10.21,4.89
+"Exact on age group + sex + race, PS within strata",57,41218,35437,9.4,7.33,2.07
+"Exact on age group + sex + race, PS within strata",58,31434,37886,10.7,6.22,4.48
+"Exact on age group + sex + race, PS within strata",59,37916,32592,9.69,11.46,-1.77
+"Exact on age group + sex + race, PS within strata",60,35564,38568,10.8,8.69,2.11
+"Exact on age group + sex + race, PS within strata",61,41194,37394,15.51,8.46,7.05
+"Exact on age group + sex + race, PS within strata",62,33168,35080,9.58,7.48,2.1
+"Exact on age group + sex + race, PS within strata",63,31345,33071,9.21,8.32,0.890000000000001
+"Exact on age group + sex + race, PS within strata",64,37440,33694,6.5,8.46,-1.96
+"Exact on age group + sex + race, PS within strata",65,37628,34145,10.9,7.67,3.23
+"Exact on age group + sex + race, PS within strata",66,39755,34877,11.64,7.05,4.59
+"Exact on age group + sex + race, PS within strata",67,37708,38825,10.92,7.43,3.49
+"Exact on age group + sex + race, PS within strata",68,38280,32550,9.32,6.96,2.36
+"Exact on age group + sex + race, PS within strata",69,38508,35312,9.58,12.8,-3.22
+"Exact on age group + sex + race, PS within strata",70,40459,41360,10.5,7.41,3.09
+"Exact on age group + sex + race, PS within strata",71,41255,31520,9.67,12.53,-2.86
+"Exact on age group + sex + race, PS within strata",72,37329,41314,7.06,6.73,0.329999999999999
+"Exact on age group + sex + race, PS within strata",73,32388,32770,9.95,11.1,-1.15
+"Exact on age group + sex + race, PS within strata",74,32742,34128,8.16,5.56,2.6
+"Exact on age group + sex + race, PS within strata",75,40474,34245,7.21,8.87,-1.66
+"Exact on age group + sex + race, PS within strata",76,40977,35874,12.17,7.84,4.33
+"Exact on age group + sex + race, PS within strata",77,31274,37588,46.9,10.38,36.52
+"Exact on age group + sex + race, PS within strata",78,34627,37801,9.05,12.5,-3.45
+"Exact on age group + sex + race, PS within strata",79,33565,39758,9.94,9.5,0.44
+"Exact on age group + sex + race, PS within strata",80,41326,38494,7.78,12.53,-4.75
+"Exact on age group + sex + race, PS within strata",81,34851,39761,8.5,20,-11.5
+"Exact on age group + sex + race, PS within strata",82,38429,34443,8.02,10.2,-2.18
+"Exact on age group + sex + race, PS within strata",83,40606,35608,11.1,15.78,-4.68
+"Exact on age group + sex + race, PS within strata",84,37573,32249,7.95,7.72,0.23
+"Exact on age group + sex + race, PS within strata",85,39794,37609,8.33,8.61,-0.279999999999999
+"Exact on age group + sex + race, PS within strata",86,34152,40339,7.11,8.56,-1.45
+"Exact on age group + sex + race, PS within strata",87,41149,32891,7.85,11.8,-3.95
+"Exact on age group + sex + race, PS within strata",88,32977,35989,8.95,12.5,-3.55
+"Exact on age group + sex + race, PS within strata",89,41036,37263,8.52,7.01,1.51
+"Exact on age group + sex + race, PS within strata",90,35741,35108,7.92,8.03,-0.109999999999999
+"Exact on age group + sex + race, PS within strata",91,38226,40821,11.5,6.65,4.85
+"Exact on age group + sex + race, PS within strata",92,39279,41032,4.06,7.18,-3.12
+"Exact on age group + sex + race, PS within strata",93,38045,35482,10.6,8.9,1.7
+"Exact on age group + sex + race, PS within strata",94,38347,36965,5.9,8.02,-2.12
+"Exact on age group + sex + race, PS within strata",95,33437,32112,7.38,14.3,-6.92
+"Exact on age group + sex + race, PS within strata",96,40908,36240,6.94,9.35,-2.41
+"Exact on age group + sex + race, PS within strata",97,33518,32164,4.99,5.89,-0.9
+"Exact on age group + sex + race, PS within strata",98,39272,40610,9.43,8.92,0.51
+"Exact on age group + sex + race, PS within strata",99,40020,34108,6.25,5.43,0.82
+"Exact on age group + sex + race, PS within strata",100,33190,38074,5.84,8.81,-2.97
+"Exact on age group + sex + race, PS within strata",101,32303,35915,6.84,9.14,-2.3
+"Exact on age group + sex + race, PS within strata",102,39058,36815,11.2,9.53,1.67
+"Exact on age group + sex + race, PS within strata",103,35330,38336,6.45,5.7,0.75
+"Exact on age group + sex + race, PS within strata",104,36741,39962,7.84,6.65,1.19
+"Exact on age group + sex + race, PS within strata",105,38915,34335,11.2,6.69,4.51
+"Exact on age group + sex + race, PS within strata",106,41437,39041,9.11,11.64,-2.53
+"Exact on age group + sex + race, PS within strata",107,31210,40431,11.7,6.77,4.93
+"Exact on age group + sex + race, PS within strata",108,36002,32523,12.1,8.24,3.86
+"Exact on age group + sex + race, PS within strata",109,39191,39018,6.7,8.23,-1.53
+"Exact on age group + sex + race, PS within strata",110,32601,36645,7.09,8.69,-1.6
+"Exact on age group + sex + race, PS within strata",111,33426,40688,12.5,6.92,5.58
+"Exact on age group + sex + race, PS within strata",112,33468,35713,9.73,8.27,1.46
+"Exact on age group + sex + race, PS within strata",113,34052,39294,5.55,6.71,-1.16
+"Exact on age group + sex + race, PS within strata",114,35441,37493,9.36,8.61,0.75
+"Exact on age group + sex + race, PS within strata",115,32304,39753,9.4,10.29,-0.889999999999999
+"Exact on age group + sex + race, PS within strata",116,40378,34463,9.36,7.01,2.35
+"Exact on age group + sex + race, PS within strata",117,33604,41466,8.87,7.94,0.929999999999999
+"Exact on age group + sex + race, PS within strata",118,35957,34547,16.1,8.11,7.99
+"Exact on age group + sex + race, PS within strata",119,37541,37947,8.78,9,-0.220000000000001
+"Exact on age group + sex + race, PS within strata",120,39935,40055,5.77,8.61,-2.84
+"Exact on age group + sex + race, PS within strata",121,38222,33750,38,6.52,31.48
+"Exact on age group + sex + race, PS within strata",122,32251,32494,18.2,6.8,11.4
+"Exact on age group + sex + race, PS within strata",123,34454,40911,8.78,7.72,1.06
+"Exact on age group + sex + race, PS within strata",124,36851,40434,7.34,6.04,1.3
+"Exact on age group + sex + race, PS within strata",125,37856,32640,7.99,9.76,-1.77
+"Exact on age group + sex + race, PS within strata",126,38519,32910,7.51,6.05,1.46
+"Exact on age group + sex + race, PS within strata",127,39189,35846,7.1,6.58,0.52
+"Exact on age group + sex + race, PS within strata",128,32577,37056,7.42,9.14,-1.72
+"Exact on age group + sex + race, PS within strata",129,38472,38558,10.5,10.1,0.4
+"Exact on age group + sex + race, PS within strata",130,34640,38350,8.02,7.59,0.43
+"Exact on age group + sex + race, PS within strata",131,38831,40322,5.37,6.49,-1.12
+"Exact on age group + sex + race, PS within strata",132,34548,32225,6.04,8.95,-2.91
+"Exact on age group + sex + race, PS within strata",133,34822,36164,13.97,8.25,5.72
+"Exact on age group + sex + race, PS within strata",134,38186,39615,16,6.25,9.75
+"Exact on age group + sex + race, PS within strata",135,40308,39862,10.38,9.32,1.06
+"Exact on age group + sex + race, PS within strata",136,31534,35280,6.76,7.95,-1.19
+"Exact on age group + sex + race, PS within strata",137,38374,34929,5.41,8.65,-3.24
+"Exact on age group + sex + race, PS within strata",138,38178,38038,7.03,9.09,-2.06
+"Exact on age group + sex + race, PS within strata",139,39716,40612,10.8,8.96,1.84
+"Exact on age group + sex + race, PS within strata",140,35567,31503,8,6.9,1.1
+"Exact on age group + sex + race, PS within strata",141,32947,35607,8.27,13.16,-4.89
+"Exact on age group + sex + race, PS within strata",142,34604,33731,6.25,5.78,0.47
+"Exact on age group + sex + race, PS within strata",143,33529,39568,9.55,3.05,6.5
+"Exact on age group + sex + race, PS within strata",144,36079,31160,5.22,7.98,-2.76
+"Exact on age group + sex + race, PS within strata",145,36944,41264,10.8,6.84,3.96
+"Exact on age group + sex + race, PS within strata",146,39992,38687,9.01,4.81,4.2
+"Exact on age group + sex + race, PS within strata",147,40471,39529,6.47,7.22,-0.75
+"Exact on age group + sex + race, PS within strata",148,36969,32605,7.48,7.63,-0.149999999999999
+"Exact on age group + sex + race, PS within strata",149,37389,32440,15.1,14.15,0.949999999999999
+"Exact on age group + sex + race, PS within strata",150,31924,34712,5.02,7.26,-2.24
+"Exact on age group + sex + race, PS within strata",151,34550,36246,6.79,8.74,-1.95
+"Exact on age group + sex + race, PS within strata",152,41422,34739,6.14,2.65,3.49
+"Exact on age group + sex + race, PS within strata",153,36466,35935,5.38,5.76,-0.38
+"Exact on age group + sex + race, PS within strata",154,31508,35619,11.1,21.53,-10.43
+"Exact on age group + sex + race, PS within strata",155,33755,33988,6.55,2.62,3.93
+"Exact on age group + sex + race, PS within strata",156,34377,32616,7.79,7.89,-0.0999999999999996
+"Exact on age group + sex + race, PS within strata",157,34719,35042,6.64,5.58,1.06
+"Exact on age group + sex + race, PS within strata",158,35261,36802,8.21,3.22,4.99
+"Exact on age group + sex + race, PS within strata",159,40530,40694,6.64,5.07,1.57
+"Exact on age group + sex + race, PS within strata",160,32517,32118,9.51,16,-6.49
+"Exact on age group + sex + race, PS within strata",161,32794,40949,3.94,3.86,0.0800000000000001
+"Exact on age group + sex + race, PS within strata",162,39340,33400,10.56,7.67,2.89
+"Exact on age group + sex + race, PS within strata",163,39820,32930,9.85,4.64,5.21
+"Exact on age group + sex + race, PS within strata",164,35958,33321,8.43,8.52,-0.0899999999999999
+"Exact on age group + sex + race, PS within strata",165,32491,41449,4.83,2.13,2.7
+"Exact on age group + sex + race, PS within strata",166,36319,38773,11.64,9.58,2.06
+"Exact on age group + sex + race, PS within strata",167,38575,35493,8.78,10.65,-1.87
+"Exact on age group + sex + race, PS within strata",168,35237,37030,8.06,6.52,1.54
+"Exact on age group + sex + race, PS within strata",169,33230,34742,8.97,10.9,-1.93
+"Exact on age group + sex + race, PS within strata",170,32564,32566,10.4,6.33,4.07
+"Exact on age group + sex + race, PS within strata",171,32691,33425,10.6,5.74,4.86
+"Exact on age group + sex + race, PS within strata",172,36148,33492,8.78,8.03,0.75
+"Exact on age group + sex + race, PS within strata",173,40596,37565,6.76,9.3,-2.54
+"Exact on age group + sex + race, PS within strata",174,34184,39086,11.2,14.4,-3.2
+"Exact on age group + sex + race, PS within strata",175,31268,37122,6.12,6.84,-0.72
+"Exact on age group + sex + race, PS within strata",176,35722,37136,9.4,4.4,5
+"Exact on age group + sex + race, PS within strata",177,37804,39707,8.05,6.77,1.28
+"Exact on age group + sex + race, PS within strata",178,38323,36720,7.22,6.51,0.71
+"Exact on age group + sex + race, PS within strata",179,38920,36675,4.83,7.54,-2.71
+"Exact on age group + sex + race, PS within strata",180,40980,32036,4.57,7.56,-2.99
+"Exact on age group + sex + race, PS within strata",181,33585,31483,10.2,6.76,3.44
+"Exact on age group + sex + race, PS within strata",182,33634,31748,6.58,11.7,-5.12
+"Exact on age group + sex + race, PS within strata",183,35214,36169,23.92,10.8,13.12
+"Exact on age group + sex + race, PS within strata",184,35529,40350,8.61,10.3,-1.69
+"Exact on age group + sex + race, PS within strata",185,35679,41135,7.79,7.24,0.55
+"Exact on age group + sex + race, PS within strata",186,39930,31570,7.88,6.72,1.16
+"Exact on age group + sex + race, PS within strata",187,40759,34203,6.07,6.16,-0.0899999999999999
+"Exact on age group + sex + race, PS within strata",188,32071,38613,8.7,6.87,1.83
+"Exact on age group + sex + race, PS within strata",189,33616,35233,6.86,8.08,-1.22
+"Exact on age group + sex + race, PS within strata",190,32868,36534,7.67,5.28,2.39
+"Exact on age group + sex + race, PS within strata",191,36176,36194,7.14,7.98,-0.840000000000001
+"Exact on age group + sex + race, PS within strata",192,33751,34700,33,9.9,23.1
+"Exact on age group + sex + race, PS within strata",193,39199,38426,14.4,7.23,7.17
+"Exact on age group + sex + race, PS within strata",194,39646,39141,11.28,8.26,3.02
+"Exact on age group + sex + race, PS within strata",195,33121,37038,7.68,15.4,-7.72
+"Exact on age group + sex + race, PS within strata",196,31529,39230,4.19,5.67,-1.48
+"Exact on age group + sex + race, PS within strata",197,39374,32960,5.94,8.04,-2.1
+"Exact on age group + sex + race, PS within strata",198,35290,31164,12.6,9.68,2.92
+"Exact on age group + sex + race, PS within strata",199,32745,32467,6.32,7.21,-0.89
+"Exact on age group + sex + race, PS within strata",200,33827,35397,8.07,16.1,-8.03
+"Exact on age group + sex + race, PS within strata",201,36400,35955,7.91,8.46,-0.550000000000001
+"Exact on age group + sex + race, PS within strata",202,33709,33949,7.32,8.52,-1.2
+"Exact on age group + sex + race, PS within strata",203,34901,34642,19.51,10.3,9.21
+"Exact on age group + sex + race, PS within strata",204,39732,35067,10.83,6.88,3.95
+"Exact on age group + sex + race, PS within strata",205,41238,37751,9.36,9.15,0.209999999999999
+"Exact on age group + sex + race, PS within strata",206,34283,40661,8.89,6.09,2.8
+"Exact on age group + sex + race, PS within strata",207,37131,38246,12.35,6.6,5.75
+"Exact on age group + sex + race, PS within strata",208,41223,37296,7.32,7.82,-0.5
+"Exact on age group + sex + race, PS within strata",209,41005,36159,8.46,14.8,-6.34
+"Exact on age group + sex + race, PS within strata",210,32531,35863,12.7,7.07,5.63
+"Exact on age group + sex + race, PS within strata",211,35329,33934,8.61,7.06,1.55
+"Exact on age group + sex + race, PS within strata",212,40850,34284,8.49,9.87,-1.38
+"Exact on age group + sex + race, PS within strata",213,38143,35071,7.71,10.9,-3.19
+"Exact on age group + sex + race, PS within strata",214,34641,36362,11.55,5.76,5.79
+"Exact on age group + sex + race, PS within strata",215,39802,39618,6.25,7.77,-1.52
+"Exact on age group + sex + race, PS within strata",216,31787,39838,14.6,6.83,7.77
+"Exact on age group + sex + race, PS within strata",217,38614,41025,8.56,7.55,1.01
+"Exact on age group + sex + race, PS within strata",218,38673,39502,16.2,11.4,4.8
+"Exact on age group + sex + race, PS within strata",219,31399,41236,6.92,8.52,-1.6
+"Exact on age group + sex + race, PS within strata",220,31154,34084,45.2,20.1,25.1
+"Exact on age group + sex + race, PS within strata",221,35936,36478,11.55,10.4,1.15
+"Exact on age group + sex + race, PS within strata",222,40110,33552,7.94,8.03,-0.089999999999999
+"Exact on age group + sex + race, PS within strata",223,35505,32900,9.24,7,2.24
+"Exact on age group + sex + race, PS within strata",224,40512,35829,7.9,7.05,0.85
+"Exact on age group + sex + race, PS within strata",225,40583,37374,7.89,8.25,-0.36
+"Exact on age group + sex + race, PS within strata",226,36050,37767,7.1,5.46,1.64
+"Exact on age group + sex + race, PS within strata",227,40613,38351,8.22,8.87,-0.649999999999999
+"Exact on age group + sex + race, PS within strata",228,32239,31388,5.49,6.6,-1.11
+"Exact on age group + sex + race, PS within strata",229,35999,35198,9.58,7.39,2.19
+"Exact on age group + sex + race, PS within strata",230,37652,38027,10.1,14.79,-4.69
+"Exact on age group + sex + race, PS within strata",231,40711,37646,13.4,7.37,6.03
+"Exact on age group + sex + race, PS within strata",232,33327,34037,11,7.4,3.6
+"Exact on age group + sex + race, PS within strata",233,33992,35554,6.24,13.2,-6.96
+"Exact on age group + sex + race, PS within strata",234,35703,36005,6.95,6.27,0.680000000000001
+"Exact on age group + sex + race, PS within strata",235,32086,40877,8.61,7.76,0.85
+"Exact on age group + sex + race, PS within strata",236,37283,38830,8.59,6.55,2.04
+"Exact on age group + sex + race, PS within strata",237,38162,33272,8.52,6.16,2.36
+"Exact on age group + sex + race, PS within strata",238,32924,35284,15.2,7.5,7.7
+"Exact on age group + sex + race, PS within strata",239,36469,34220,6.16,10,-3.84
+"Exact on age group + sex + race, PS within strata",240,34114,34319,10.9,10.29,0.610000000000001
+"Exact on age group + sex + race, PS within strata",241,32829,32429,5.42,7.38,-1.96
+"Exact on age group + sex + race, PS within strata",242,38455,35423,12.8,7.24,5.56
+"Exact on age group + sex + race, PS within strata",243,40721,39334,7.96,8.03,-0.0699999999999994
+"Exact on age group + sex + race, PS within strata",244,37206,36200,4.77,7.93,-3.16
+"Exact on age group + sex + race, PS within strata",245,36197,32540,11.19,17.33,-6.14
+"Exact on age group + sex + race, PS within strata",246,37692,31702,7.28,6.18,1.1
+"Exact on age group + sex + race, PS within strata",247,31501,39254,11.37,9.45,1.92
+"Exact on age group + sex + race, PS within strata",248,32892,41472,9.47,8.5,0.970000000000001
+"Exact on age group + sex + race, PS within strata",249,35349,35625,6.38,7.37,-0.99
+"Exact on age group + sex + race, PS within strata",250,40383,32298,15.5,7.11,8.39
+"Exact on age group + sex + race, PS within strata",251,38937,31947,11.1,8.3,2.8
+"Exact on age group + sex + race, PS within strata",252,31550,33852,8.12,6.18,1.94
+"Exact on age group + sex + race, PS within strata",253,34345,37002,6.65,10,-3.35
+"Exact on age group + sex + race, PS within strata",254,35458,37358,6.36,7.89,-1.53
+"Exact on age group + sex + race, PS within strata",255,36707,38087,6.37,9.14,-2.77
+"Exact on age group + sex + race, PS within strata",256,39004,38501,10.03,5.17,4.86
+"Exact on age group + sex + race, PS within strata",257,39351,33536,9.85,8.88,0.969999999999999
+"Exact on age group + sex + race, PS within strata",258,32706,32609,6.25,7.01,-0.76
+"Exact on age group + sex + race, PS within strata",259,32925,33347,6.14,5.5,0.64
+"Exact on age group + sex + race, PS within strata",260,38149,34120,8.87,6.16,2.71
+"Exact on age group + sex + race, PS within strata",261,33971,39728,9.94,7.59,2.35
+"Exact on age group + sex + race, PS within strata",262,36165,31679,8.31,10.21,-1.9
+"Exact on age group + sex + race, PS within strata",263,39452,34051,9.75,9.4,0.35
+"Exact on age group + sex + race, PS within strata",264,32688,33871,7.4,13.34,-5.94
+"Exact on age group + sex + race, PS within strata",265,41303,33935,8.38,8.32,0.0600000000000005
+"Exact on age group + sex + race, PS within strata",266,31167,32570,6.69,8.81,-2.12
+"Exact on age group + sex + race, PS within strata",267,34078,34274,7.71,8.78,-1.07
+"Exact on age group + sex + race, PS within strata",268,38802,34391,7.47,9.02,-1.55
+"Exact on age group + sex + race, PS within strata",269,32918,36638,7.47,12.9,-5.43
+"Exact on age group + sex + race, PS within strata",270,39215,32042,15.1,6.98,8.12
+"Exact on age group + sex + race, PS within strata",271,36571,37812,9.67,7.03,2.64
+"Exact on age group + sex + race, PS within strata",272,34768,35372,8.12,8.09,0.0299999999999994
+"Exact on age group + sex + race, PS within strata",273,36632,36278,7.98,10.4,-2.42
+"Exact on age group + sex + race, PS within strata",274,40685,36903,8.96,6.11,2.85
+"Exact on age group + sex + race, PS within strata",275,37887,33002,12.08,7.2,4.88
+"Exact on age group + sex + race, PS within strata",276,31739,34136,6.23,7.61,-1.38
+"Exact on age group + sex + race, PS within strata",277,33020,32946,16.1,9.58,6.52
+"Exact on age group + sex + race, PS within strata",278,36481,34562,8.13,10.83,-2.7
+"Exact on age group + sex + race, PS within strata",279,33328,33307,9.33,6.7,2.63
+"Exact on age group + sex + race, PS within strata",280,32389,34609,8.96,8.78,0.180000000000001
+"Exact on age group + sex + race, PS within strata",281,40299,41260,7.91,6.61,1.3
+"Exact on age group + sex + race, PS within strata",282,37257,41281,5.12,8.18,-3.06
+"Exact on age group + sex + race, PS within strata",283,38597,34578,11.2,9.85,1.35
+"Exact on age group + sex + race, PS within strata",284,39054,35077,9.49,6.98,2.51
+"Exact on age group + sex + race, PS within strata",285,32436,31517,5.88,6.36,-0.48
+"Exact on age group + sex + race, PS within strata",286,37352,31926,7.68,5.65,2.03
+"Exact on age group + sex + race, PS within strata",287,37954,34875,16.9,4.14,12.76
+"Exact on age group + sex + race, PS within strata",288,36464,37071,12.17,9.95,2.22
+"Exact on age group + sex + race, PS within strata",289,34165,31524,9.4,7.97,1.43
+"Exact on age group + sex + race, PS within strata",290,38819,39110,9.93,9.05,0.879999999999999
+"Exact on age group + sex + race, PS within strata",291,33200,34254,5.3,5.36,-0.0600000000000005
+"Exact on age group + sex + race, PS within strata",292,34212,32591,4.83,8.63,-3.8
+"Exact on age group + sex + race, PS within strata",293,36986,37048,6.47,18.33,-11.86
+"Exact on age group + sex + race, PS within strata",294,40235,31223,9.99,8.18,1.81
+"Exact on age group + sex + race, PS within strata",295,32897,31221,10.2,6.8,3.4
+"Exact on age group + sex + race, PS within strata",296,35686,33563,19.7,5.36,14.34
+"Exact on age group + sex + race, PS within strata",297,34557,31301,10.6,8.3,2.3
+"Exact on age group + sex + race, PS within strata",298,38817,40630,10.56,5.87,4.69
+"Exact on age group + sex + race, PS within strata",299,32360,33362,7.3,7.64,-0.34
+"Exact on age group + sex + race, PS within strata",300,32632,33530,9.58,6.77,2.81
+"Exact on age group + sex + race, PS within strata",301,37151,36760,6.83,8.85,-2.02
+"Exact on age group + sex + race, PS within strata",302,37697,36823,8.82,7.55,1.27
+"Exact on age group + sex + race, PS within strata",303,37455,41021,10.1,9.75,0.35
+"Exact on age group + sex + race, PS within strata",304,33838,34209,9.14,5.78,3.36
+"Exact on age group + sex + race, PS within strata",305,32755,35399,7.43,9.47,-2.04
+"Exact on age group + sex + race, PS within strata",306,33331,31213,7.7,12.7,-5
+"Exact on age group + sex + race, PS within strata",307,31778,32997,16.3,11.1,5.2
+"Exact on age group + sex + race, PS within strata",308,34068,34002,7.64,8.61,-0.97
+"Exact on age group + sex + race, PS within strata",309,40446,31873,9.93,10.1,-0.17
+"Exact on age group + sex + race, PS within strata",310,40008,32932,16.3,13.9,2.4
+"Exact on age group + sex + race, PS within strata",311,33161,38480,6.3,10.4,-4.1
+"Exact on age group + sex + race, PS within strata",312,35188,39532,10.2,4.93,5.27
+"Exact on age group + sex + race, PS within strata",313,34673,33960,21.3,8.16,13.14
+"Exact on age group + sex + race, PS within strata",314,36714,33275,10.1,9.9,0.199999999999999
+"Exact on age group + sex + race, PS within strata",315,31681,31888,5.95,7.91,-1.96
+"Exact on age group + sex + race, PS within strata",316,32287,39702,6.6,10.38,-3.78
+"Exact on age group + sex + race, PS within strata",317,35805,33117,12.08,7.97,4.11
+"Exact on age group + sex + race, PS within strata",318,36428,39305,5.23,7.64,-2.41
+"Exact on age group + sex + race, PS within strata",319,37567,40476,8.03,2.74,5.29
+"Exact on age group + sex + race, PS within strata",320,39417,36666,4.15,5.56,-1.41
+"Exact on age group + sex + race, PS within strata",321,40310,31858,9.4,7.91,1.49
+"Exact on age group + sex + race, PS within strata",322,40866,38836,8.59,7.72,0.87
+"Exact on age group + sex + race, PS within strata",323,37471,36232,7.97,6.4,1.57
+"Exact on age group + sex + race, PS within strata",324,38803,36357,6.9,6.64,0.260000000000001
+"Exact on age group + sex + race, PS within strata",325,41147,33743,10.9,8.23,2.67
+"Exact on age group + sex + race, PS within strata",326,34577,31435,8.9,7.01,1.89
+"Exact on age group + sex + race, PS within strata",327,35910,32520,6.19,7.29,-1.1
+"Exact on age group + sex + race, PS within strata",328,40404,31518,10.8,4.83,5.97
+"Exact on age group + sex + race, PS within strata",329,35465,35273,8.78,11.64,-2.86
+"Exact on age group + sex + race, PS within strata",330,31994,40591,12.44,5.72,6.72
+"Exact on age group + sex + race, PS within strata",331,39436,40966,9.6,10.12,-0.52
+"Exact on age group + sex + race, PS within strata",332,36702,33344,5.02,7.23,-2.21
+"Exact on age group + sex + race, PS within strata",333,36819,31666,7.7,10.56,-2.86
+"Exact on age group + sex + race, PS within strata",334,32001,32636,6.04,6.22,-0.18
+"Exact on age group + sex + race, PS within strata",335,33955,33073,9.8,7.33,2.47
+"Exact on age group + sex + race, PS within strata",336,35729,33643,6.26,6.34,-0.0800000000000001
+"Exact on age group + sex + race, PS within strata",337,31921,38560,3.43,8.37,-4.94
+"Exact on age group + sex + race, PS within strata",338,36177,41113,4.31,4.61,-0.300000000000001
+"Exact on age group + sex + race, PS within strata",339,35473,38214,7.65,9.27,-1.62
+"Exact on age group + sex + race, PS within strata",340,33360,39770,7.8,9.27,-1.47
+"Exact on age group + sex + race, PS within strata",341,39300,31961,8.2,7.95,0.249999999999999
+"Exact on age group + sex + race, PS within strata",342,33582,32098,4.26,10.56,-6.3
+"Exact on age group + sex + race, PS within strata",343,36178,36144,5.73,4.82,0.91
+"Exact on age group + sex + race, PS within strata",344,38245,35377,5.08,9.49,-4.41
+"Exact on age group + sex + race, PS within strata",345,37986,36143,19.2,5.42,13.78
+"Exact on age group + sex + race, PS within strata",346,38077,31712,5.88,4.38,1.5
+"Exact on age group + sex + race, PS within strata",347,31752,33917,9.83,8.4,1.43
+"Exact on age group + sex + race, PS within strata",348,37279,33756,16.78,6.73,10.05
+"Exact on age group + sex + race, PS within strata",349,37426,34235,53.2,6.46,46.74
+"Exact on age group + sex + race, PS within strata",350,40515,31134,8.65,8.2,0.450000000000001
+"Exact on age group + sex + race, PS within strata",351,31936,35821,2.5,8.11,-5.61
+"Exact on age group + sex + race, PS within strata",352,35960,34021,5.14,6.56,-1.42
+"Exact on age group + sex + race, PS within strata",353,35990,41361,4.58,5.04,-0.46
+"Exact on age group + sex + race, PS within strata",354,38677,36474,5.84,10.21,-4.37
+"Exact on age group + sex + race, PS within strata",355,33413,41428,5.27,3.07,2.2
+"Exact on age group + sex + race, PS within strata",356,33629,32205,8.01,6.16,1.85
+"Exact on age group + sex + race, PS within strata",357,39580,36850,8.02,6.48,1.54
+"Exact on age group + sex + race, PS within strata",358,39411,35287,15.6,4.42,11.18
+"Exact on age group + sex + race, PS within strata",359,32223,35604,6.16,5.62,0.54
+"Exact on age group + sex + race, PS within strata",360,35328,32115,10.1,5.29,4.81
+"Exact on age group + sex + race, PS within strata",361,35552,36592,7.61,3.39,4.22
+"Exact on age group + sex + race, PS within strata",362,37730,36907,6.65,7.98,-1.33
+"Exact on age group + sex + race, PS within strata",363,39081,32768,4.58,6.74,-2.16
+"Exact on age group + sex + race, PS within strata",364,40651,33841,6.37,7.62,-1.25
+"Exact on age group + sex + race, PS within strata",365,41338,32378,6.94,11.73,-4.79
+"Exact on age group + sex + race, PS within strata",366,33330,32405,6.22,4.01,2.21
+"Exact on age group + sex + race, PS within strata",367,38556,37313,9.32,4.38,4.94
+"Exact on age group + sex + race, PS within strata",368,35180,38302,6.49,24.4,-17.91
+"Exact on age group + sex + race, PS within strata",369,37078,36171,10.1,5.48,4.62
+"Exact on age group + sex + race, PS within strata",370,40460,37117,8.87,5.18,3.69
+"Exact on age group + sex + race, PS within strata",371,37069,39079,10.92,9.76,1.16
+"Exact on age group + sex + race, PS within strata",372,36350,33244,6.23,3.35,2.88
+"Exact on age group + sex + race, PS within strata",373,39780,34799,5.81,3.28,2.53
+"Exact on age group + sex + race, PS within strata",374,35755,38534,5.06,5.55,-0.49
+"Exact on age group + sex + race, PS within strata",375,40751,40490,5.62,5.66,-0.04
+"Exact on age group + sex + race, PS within strata",376,39765,37623,5.68,5.39,0.29
+"Exact on age group + sex + race, PS within strata",377,36502,40633,9.92,7.57,2.35
+"Exact on age group + sex + race, PS within strata",378,35324,33543,12.08,7.29,4.79
+"Exact on age group + sex + race, PS within strata",379,31751,35149,7.32,6.66,0.66
+"Exact on age group + sex + race, PS within strata",380,38553,38821,4.1,3.84,0.26
+"Exact on age group + sex + race, PS within strata",381,33192,32138,7.36,9.21,-1.85
+"Exact on age group + sex + race, PS within strata",382,39884,32709,8.28,6.44,1.84
+"Exact on age group + sex + race, PS within strata",383,41089,35823,8.34,7.56,0.78
+"Exact on age group + sex + race, PS within strata",384,41447,36160,10.65,7.8,2.85
+"Exact on age group + sex + race, PS within strata",385,33803,32161,8.84,6.87,1.97
+"Exact on age group + sex + race, PS within strata",386,35577,34269,8.95,5.36,3.59
+"Exact on age group + sex + race, PS within strata",387,37261,40605,8.52,4.95,3.57
+"Exact on age group + sex + race, PS within strata",388,41300,39846,8.78,6.44,2.34
+"Exact on age group + sex + race, PS within strata",389,33630,31948,4.22,11.5,-7.28
+"Exact on age group + sex + race, PS within strata",390,31913,33978,6.93,8.18,-1.25
+"Exact on age group + sex + race, PS within strata",391,37132,36132,8.49,6.66,1.83
+"Exact on age group + sex + race, PS within strata",392,39298,39866,4.74,6.99,-2.25
+"Exact on age group + sex + race, PS within strata",393,35500,38967,5.94,6.73,-0.79
+"Exact on age group + sex + race, PS within strata",394,39569,36486,17.5,7.14,10.36
+"Exact on age group + sex + race, PS within strata",395,34434,35263,4.89,6.34,-1.45
+"Exact on age group + sex + race, PS within strata",396,34647,39040,9.94,8.87,1.07
+"Exact on age group + sex + race, PS within strata",397,39638,40755,7.62,11.01,-3.39
+"Exact on age group + sex + race, PS within strata",398,31877,31441,15.1,8.69,6.41
+"Exact on age group + sex + race, PS within strata",399,35891,31721,10.9,5.71,5.19
+"Exact on age group + sex + race, PS within strata",400,34919,32596,5.43,5.8,-0.37
+"Exact on age group + sex + race, PS within strata",401,40286,35216,8.87,11.64,-2.77
+"Exact on age group + sex + race, PS within strata",402,36351,39003,6.75,11.3,-4.55
+"Exact on age group + sex + race, PS within strata",403,31972,38230,10.47,8.23,2.24
+"Exact on age group + sex + race, PS within strata",404,33972,36853,10.4,8.69,1.71
+"Exact on age group + sex + race, PS within strata",405,39060,34293,6.85,11.3,-4.45
+"Exact on age group + sex + race, PS within strata",406,39343,31343,10.56,7.72,2.84
+"Exact on age group + sex + race, PS within strata",407,32696,38759,11.7,8.92,2.78
+"Exact on age group + sex + race, PS within strata",408,32459,31425,9.32,5.51,3.81
+"Exact on age group + sex + race, PS within strata",409,33474,39853,6.7,7.71,-1.01
+"Exact on age group + sex + race, PS within strata",410,34813,40010,7.26,5.21,2.05
+"Exact on age group + sex + race, PS within strata",411,35624,40737,11.1,8.47,2.63
+"Exact on age group + sex + race, PS within strata",412,35750,31510,7.84,6.47,1.37
+"Exact on age group + sex + race, PS within strata",413,38388,34202,8.96,22.8,-13.84
+"Exact on age group + sex + race, PS within strata",414,36797,34325,5.46,7.23,-1.77
+"Exact on age group + sex + race, PS within strata",415,32921,38493,6.89,4.81,2.08
+"Exact on age group + sex + race, PS within strata",416,34307,40729,8.48,13,-4.52
+"Exact on age group + sex + race, PS within strata",417,34848,31983,12.2,4.79,7.41
+"Exact on age group + sex + race, PS within strata",418,36418,36115,19.6,7.99,11.61
+"Exact on age group + sex + race, PS within strata",419,32859,38849,7.74,8.95,-1.21
+"Exact on age group + sex + race, PS within strata",420,40427,32509,6.66,5.94,0.72
+"Exact on age group + sex + race, PS within strata",421,35181,40225,8.78,7.97,0.81
+"Exact on age group + sex + race, PS within strata",422,31387,40421,5.39,4.81,0.58
+"Exact on age group + sex + race, PS within strata",423,33798,36209,9,9.83,-0.83
+"Exact on age group + sex + race, PS within strata",424,33965,35515,6.85,7.94,-1.09
+"Exact on age group + sex + race, PS within strata",425,34996,36213,10.8,5.25,5.55
+"Exact on age group + sex + race, PS within strata",426,34020,33821,6.26,8.69,-2.43
+"Exact on age group + sex + race, PS within strata",427,40095,34999,8.1,6.63,1.47
+"Exact on age group + sex + race, PS within strata",428,35685,37382,8.95,13.9,-4.95
+"Exact on age group + sex + race, PS within strata",429,35810,35764,6.89,23.82,-16.93
+"Exact on age group + sex + race, PS within strata",430,36545,37308,9.18,6.18,3
+"Exact on age group + sex + race, PS within strata",431,32857,35940,17.7,6.52,11.18
+"Exact on age group + sex + race, PS within strata",432,37826,40686,6.87,10.74,-3.87
+"Exact on age group + sex + race, PS within strata",433,39180,41268,10.2,11.55,-1.35
+"Exact on age group + sex + race, PS within strata",434,41355,32165,4.21,8.79,-4.58
+"Exact on age group + sex + race, PS within strata",435,33319,34897,8.08,6.29,1.79
+"Exact on age group + sex + race, PS within strata",436,39535,32488,6.51,9.94,-3.43
+"Exact on age group + sex + race, PS within strata",437,35880,33201,9.74,8.87,0.870000000000001
+"Exact on age group + sex + race, PS within strata",438,40790,35133,9.49,7.3,2.19
+"Exact on age group + sex + race, PS within strata",439,37823,41387,8.32,6.54,1.78
+"Exact on age group + sex + race, PS within strata",440,38314,34956,9.32,8.7,0.620000000000001
+"Exact on age group + sex + race, PS within strata",441,31577,31804,6.93,5.86,1.07
+"Exact on age group + sex + race, PS within strata",442,40921,35298,10.4,7.52,2.88
+"Exact on age group + sex + race, PS within strata",443,38345,36292,8.32,6.39,1.93
+"Exact on age group + sex + race, PS within strata",444,40153,36556,9.58,6.88,2.7
+"Exact on age group + sex + race, PS within strata",445,36257,36065,6.39,7.52,-1.13
+"Exact on age group + sex + race, PS within strata",446,34401,31699,6.85,5.89,0.96
+"Exact on age group + sex + race, PS within strata",447,35888,34256,7.39,6.25,1.14
+"Exact on age group + sex + race, PS within strata",448,34574,32270,10.03,7.15,2.88
+"Exact on age group + sex + race, PS within strata",449,40683,34905,8.96,6.65,2.31
+"Exact on age group + sex + race, PS within strata",450,32357,32650,8.63,7.85,0.780000000000001
+"Exact on age group + sex + race, PS within strata",451,32749,39124,11.8,5.08,6.72
+"Exact on age group + sex + race, PS within strata",452,31437,32014,9.49,15.24,-5.75
+"Exact on age group + sex + race, PS within strata",453,38824,35982,7.27,10.74,-3.47
+"Exact on age group + sex + race, PS within strata",454,39695,37429,6.75,5.99,0.76
+"Exact on age group + sex + race, PS within strata",455,32908,38192,8.37,8.96,-0.590000000000002
+"Exact on age group + sex + race, PS within strata",456,35381,36793,8.08,6.42,1.66
+"Exact on age group + sex + race, PS within strata",457,34831,35021,8.78,10.5,-1.72
+"Exact on age group + sex + race, PS within strata",458,39768,31252,7.75,6.42,1.33
+"Exact on age group + sex + race, PS within strata",459,40857,31317,6.68,9.37,-2.69
+"Exact on age group + sex + race, PS within strata",460,33154,38708,7.91,6.46,1.45
+"Exact on age group + sex + race, PS within strata",461,37385,41458,7.74,8.21,-0.470000000000001
+"Exact on age group + sex + race, PS within strata",462,32241,32437,7.12,6.87,0.25
+"Exact on age group + sex + race, PS within strata",463,34223,37147,8.29,7.93,0.359999999999999
+"Exact on age group + sex + race, PS within strata",464,37964,37129,9.85,13.4,-3.55
+"Exact on age group + sex + race, PS within strata",465,38812,31361,6.42,3.85,2.57
+"Exact on age group + sex + race, PS within strata",466,33263,37465,12.3,8.43,3.87
+"Exact on age group + sex + race, PS within strata",467,34507,40025,10.4,8.85,1.55
+"Exact on age group + sex + race, PS within strata",468,40585,32283,8.86,7.97,0.89
+"Exact on age group + sex + race, PS within strata",469,34726,34620,18.69,10.4,8.29
+"Exact on age group + sex + race, PS within strata",470,38418,31619,6.81,4.51,2.3
+"Exact on age group + sex + race, PS within strata",471,36614,34234,11,17.5,-6.5
+"Exact on age group + sex + race, PS within strata",472,31158,35673,8.87,23.6,-14.73
+"Exact on age group + sex + race, PS within strata",473,35621,32130,6.09,8.86,-2.77
+"Exact on age group + sex + race, PS within strata",474,36045,35224,5.6,5.25,0.35
+"Exact on age group + sex + race, PS within strata",475,31625,33726,11.2,8.83,2.37
+"Exact on age group + sex + race, PS within strata",476,32355,34756,8.35,5.91,2.44
+"Exact on age group + sex + race, PS within strata",477,32198,31870,4.39,8.87,-4.48
+"Exact on age group + sex + race, PS within strata",478,37418,33372,5.28,3.95,1.33
+"Exact on age group + sex + race, PS within strata",479,38522,33963,7.79,5.83,1.96
+"Exact on age group + sex + race, PS within strata",480,32813,37875,4.83,6.32,-1.49
+"Exact on age group + sex + race, PS within strata",481,33477,35076,5.98,6.81,-0.829999999999999
+"Exact on age group + sex + race, PS within strata",482,35571,31187,5.39,6.98,-1.59
+"Exact on age group + sex + race, PS within strata",483,36772,34520,5.57,13.7,-8.13
+"Exact on age group + sex + race, PS within strata",484,40041,40929,5.47,3.29,2.18
+"Exact on age group + sex + race, PS within strata",485,31278,38903,11.6,125,-113.4
+"Exact on age group + sex + race, PS within strata",486,33376,32560,6.53,6.24,0.29
+"Exact on age group + sex + race, PS within strata",487,36786,34614,6.22,3.69,2.53
+"Exact on age group + sex + race, PS within strata",488,31847,33280,12.1,4.48,7.62
+"Exact on age group + sex + race, PS within strata",489,39786,34939,7.83,7,0.83
+"Exact on age group + sex + race, PS within strata",490,35144,41403,13.5,13.6,-0.0999999999999996
+"Exact on age group + sex + race, PS within strata",491,31980,32309,4.96,5.04,-0.0800000000000001
+"Exact on age group + sex + race, PS within strata",492,31640,33847,7.67,7.56,0.11
+"Exact on age group + sex + race, PS within strata",493,34662,39044,4.41,6.29,-1.88
+"Exact on age group + sex + race, PS within strata",494,37771,36587,3.77,4.36,-0.59
+"Exact on age group + sex + race, PS within strata",495,35895,35218,5.46,5.11,0.35
+"Exact on age group + sex + race, PS within strata",496,36794,40983,8.11,6.33,1.78
+"Exact on age group + sex + race, PS within strata",497,39599,31690,7.32,4.66,2.66
+"Exact on age group + sex + race, PS within strata",498,40172,39048,8.09,10.4,-2.31
+"Exact on age group + sex + race, PS within strata",499,39363,36885,10.21,8.02,2.19
+"Exact on age group + sex + race, PS within strata",500,36530,31816,6.23,4.57,1.66
+"Exact on age group + sex + race, PS within strata",501,34564,38867,4.8,4.03,0.77
+"Exact on age group + sex + race, PS within strata",502,31548,36699,6.87,8.34,-1.47
+"Exact on age group + sex + race, PS within strata",503,33011,32199,5.89,6.29,-0.4
+"Exact on age group + sex + race, PS within strata",504,39700,33171,4.8,6,-1.2
+"Exact on age group + sex + race, PS within strata",505,34618,34681,5.88,6.31,-0.43
+"Exact on age group + sex + race, PS within strata",506,33637,31822,7.94,3.45,4.49
+"Exact on age group + sex + race, PS within strata",507,36839,38358,10.1,6.91,3.19
+"Exact on age group + sex + race, PS within strata",508,33880,32048,6.83,6.36,0.47
+"Exact on age group + sex + race, PS within strata",509,40743,35795,6.54,3.9,2.64
+"Exact on age group + sex + race, PS within strata",510,40791,37462,5.07,11.1,-6.03
+"Exact on age group + sex + race, PS within strata",511,40016,34530,9.06,8.21,0.85
+"Exact on age group + sex + race, PS within strata",512,34150,33928,5.84,7.66,-1.82
+"Exact on age group + sex + race, PS within strata",513,34935,31410,8.61,8.5,0.109999999999999
+"Exact on age group + sex + race, PS within strata",514,35856,35213,6.75,6.39,0.36
+"Exact on age group + sex + race, PS within strata",515,35171,33080,8.69,7.13,1.56
+"Exact on age group + sex + race, PS within strata",516,33596,36743,4.23,7.1,-2.87
+"Exact on age group + sex + race, PS within strata",517,36294,38536,8.3,12.53,-4.23
+"Exact on age group + sex + race, PS within strata",518,33745,33240,6.46,8.22,-1.76
+"Exact on age group + sex + race, PS within strata",519,31304,37074,4.93,6.67,-1.74
+"Exact on age group + sex + race, PS within strata",520,32358,34864,9.22,47.74,-38.52
+"Exact on age group + sex + race, PS within strata",521,37718,38017,8.87,7.11,1.76
+"Exact on age group + sex + race, PS within strata",522,31779,40064,9.33,6.39,2.94
+"Exact on age group + sex + race, PS within strata",523,38801,32619,6.54,12.4,-5.86
+"Exact on age group + sex + race, PS within strata",524,39113,33476,6.82,13.34,-6.52
+"Exact on age group + sex + race, PS within strata",525,39511,32716,7.33,8.19,-0.859999999999999
+"Exact on age group + sex + race, PS within strata",526,34838,33606,11.19,5.85,5.34
+"Exact on age group + sex + race, PS within strata",527,39735,37645,6.28,5.81,0.470000000000001
+"Exact on age group + sex + race, PS within strata",528,31736,34633,11.3,8.65,2.65
+"Exact on age group + sex + race, PS within strata",529,37659,32368,6.75,7.02,-0.27
+"Exact on age group + sex + race, PS within strata",530,36291,40948,9.37,10.9,-1.53
+"Exact on age group + sex + race, PS within strata",531,40190,36791,19,8.07,10.93
+"Exact on age group + sex + race, PS within strata",532,35770,31156,9.35,6.58,2.77
+"Exact on age group + sex + race, PS within strata",533,41107,31131,9.07,9.33,-0.26
+"Exact on age group + sex + race, PS within strata",534,37336,39439,6.23,9.77,-3.54
+"Exact on age group + sex + race, PS within strata",535,38584,33659,13.5,6.66,6.84
+"Exact on age group + sex + race, PS within strata",536,39093,34470,12,7.7,4.3
+"Exact on age group + sex + race, PS within strata",537,35313,33725,6.45,18.9,-12.45
+"Exact on age group + sex + race, PS within strata",538,34762,34483,12.9,6.53,6.37
+"Exact on age group + sex + race, PS within strata",539,38936,35094,9.32,7.54,1.78
+"Exact on age group + sex + race, PS within strata",540,38969,31746,7.96,11.28,-3.32
+"Exact on age group + sex + race, PS within strata",541,34514,35416,11,12.1,-1.1
+"Exact on age group + sex + race, PS within strata",542,41192,39323,9.4,12.6,-3.2
+"Exact on age group + sex + race, PS within strata",543,38611,32969,14.7,13.6,1.1
+"Exact on age group + sex + race, PS within strata",544,31464,31227,7.68,4.8,2.88
+"Exact on age group + sex + race, PS within strata",545,36057,38800,7.28,7.11,0.17
+"Exact on age group + sex + race, PS within strata",546,33414,31248,7.38,7.05,0.33
+"Exact on age group + sex + race, PS within strata",547,31372,35202,7.09,7.26,-0.17
+"Exact on age group + sex + race, PS within strata",548,34781,31261,6.9,8.59,-1.69
+"Exact on age group + sex + race, PS within strata",549,32858,31162,12.08,8.18,3.9
+"Exact on age group + sex + race, PS within strata",550,39785,32629,12.9,8.32,4.58
+"Exact on age group + sex + race, PS within strata",551,31958,36992,6.82,3.52,3.3
+"Exact on age group + sex + race, PS within strata",552,33235,36401,11.3,6.89,4.41
+"Exact on age group + sex + race, PS within strata",553,41127,34988,10.38,8.13,2.25
+"Exact on age group + sex + race, PS within strata",554,36845,36280,7.74,7.72,0.0200000000000005
+"Exact on age group + sex + race, PS within strata",555,34849,39970,23.55,14,9.55
+"Exact on age group + sex + race, PS within strata",556,36112,31707,9.15,11.7,-2.55
+"Exact on age group + sex + race, PS within strata",557,38071,39482,8.69,9.44,-0.75
+"Exact on age group + sex + race, PS within strata",558,35169,34363,6.57,6.02,0.550000000000001
+"Exact on age group + sex + race, PS within strata",559,40002,39751,8.02,10.8,-2.78
+"Exact on age group + sex + race, PS within strata",560,32931,33186,6.4,6.61,-0.21
+"Exact on age group + sex + race, PS within strata",561,37574,34208,7.9,9.12,-1.22
+"Exact on age group + sex + race, PS within strata",562,33249,35342,10.74,9.4,1.34
+"Exact on age group + sex + race, PS within strata",563,36891,38078,10.4,5.86,4.54
+"Exact on age group + sex + race, PS within strata",564,32015,31966,7.57,7.36,0.21
+"Exact on age group + sex + race, PS within strata",565,34855,37829,11.81,8.64,3.17
+"Exact on age group + sex + race, PS within strata",566,35882,31379,25.5,8.78,16.72
+"Exact on age group + sex + race, PS within strata",567,38113,31420,5.75,5.04,0.71
+"Exact on age group + sex + race, PS within strata",568,31993,38414,6.94,7.59,-0.65
+"Exact on age group + sex + race, PS within strata",569,40122,39068,7.03,8.08,-1.05
+"Exact on age group + sex + race, PS within strata",570,32734,34986,7.51,7.03,0.48
+"Exact on age group + sex + race, PS within strata",571,32838,31144,6.62,7.97,-1.35
+"Exact on age group + sex + race, PS within strata",572,37163,31973,9.14,7.6,1.54
+"Exact on age group + sex + race, PS within strata",573,35268,36984,11.3,4.51,6.79
+"Exact on age group + sex + race, PS within strata",574,38701,36059,7.05,8.51,-1.46
+"Exact on age group + sex + race, PS within strata",575,33060,40291,7.99,9.95,-1.96
+"Exact on age group + sex + race, PS within strata",576,38910,38262,7.31,8.44,-1.13
+"Exact on age group + sex + race, PS within strata",577,36339,36223,7.43,7.53,-0.100000000000001
+"Exact on age group + sex + race, PS within strata",578,40387,37897,7.88,6.74,1.14
+"Exact on age group + sex + race, PS within strata",579,35424,36754,8.87,7.85,1.02
+"Exact on age group + sex + race, PS within strata",580,32959,37040,7.22,8.87,-1.65
+"Exact on age group + sex + race, PS within strata",581,36873,36670,10.56,6.98,3.58
+"Exact on age group + sex + race, PS within strata",582,40177,33632,5.71,4.01,1.7
+"Exact on age group + sex + race, PS within strata",583,39032,31998,7.23,8.09,-0.859999999999999
+"Exact on age group + sex + race, PS within strata",584,40788,31922,6.13,8.05,-1.92
+"Exact on age group + sex + race, PS within strata",585,37031,36155,9.18,6.28,2.9
+"Exact on age group + sex + race, PS within strata",586,31843,34042,7,6.3,0.7
+"Exact on age group + sex + race, PS within strata",587,38134,36520,9.4,11,-1.6
+"Exact on age group + sex + race, PS within strata",588,32386,34474,8.61,6.01,2.6
+"Exact on age group + sex + race, PS within strata",589,38248,41304,11.73,6.99,4.74
+"Exact on age group + sex + race, PS within strata",590,38518,40436,6.39,5.97,0.42
+"Exact on age group + sex + race, PS within strata",591,39020,33037,6.8,8.52,-1.72
+"Exact on age group + sex + race, PS within strata",592,40519,33612,9.85,7.25,2.6
+"Exact on age group + sex + race, PS within strata",593,41179,33026,9.05,7.91,1.14
+"Exact on age group + sex + race, PS within strata",594,31781,40936,7.96,6.83,1.13
+"Exact on age group + sex + race, PS within strata",595,37271,31747,11.3,6.01,5.29
+"Exact on age group + sex + race, PS within strata",596,39464,33485,5.93,6.15,-0.220000000000001
+"Exact on age group + sex + race, PS within strata",597,34141,36123,7.56,8.25,-0.69
+"Exact on age group + sex + race, PS within strata",598,37969,38242,7.18,8.3,-1.12
+"Exact on age group + sex + race, PS within strata",599,38554,40135,6.16,6.47,-0.31
+"Exact on age group + sex + race, PS within strata",600,33519,33055,11.6,6.89,4.71
+"Exact on age group + sex + race, PS within strata",601,40321,33608,6.46,5.93,0.53
+"Exact on age group + sex + race, PS within strata",602,31186,37467,6.98,5.81,1.17
+"Exact on age group + sex + race, PS within strata",603,35007,40768,5.65,11.19,-5.54
+"Exact on age group + sex + race, PS within strata",604,40965,32175,9.24,10.21,-0.970000000000001
+"Exact on age group + sex + race, PS within strata",605,35113,31403,8.04,7.31,0.73
+"Exact on age group + sex + race, PS within strata",606,41267,37765,9.08,7.9,1.18
+"Exact on age group + sex + race, PS within strata",607,35504,34705,6.05,5.04,1.01
+"Exact on age group + sex + race, PS within strata",608,35056,31259,6.85,3.47,3.38
+"Exact on age group + sex + race, PS within strata",609,33559,32292,6.64,3.48,3.16
+"Exact on age group + sex + race, PS within strata",610,38203,34945,6.06,4.84,1.22
+"Exact on age group + sex + race, PS within strata",611,33506,39021,4.81,5.39,-0.58
+"Exact on age group + sex + race, PS within strata",612,34515,38088,9.18,5.4,3.78
+"Exact on age group + sex + race, PS within strata",613,36161,33789,6.17,4.67,1.5
+"Exact on age group + sex + race, PS within strata",614,38464,31487,7.09,7.03,0.0599999999999996
+"Exact on age group + sex + race, PS within strata",615,41093,32781,9.31,4.65,4.66
+"Exact on age group + sex + race, PS within strata",616,34911,36713,8.61,6.99,1.62
+"Exact on age group + sex + race, PS within strata",617,36482,37929,11.6,11.3,0.299999999999999
+"Exact on age group + sex + race, PS within strata",618,38965,35539,7.96,5.82,2.14
+"Exact on age group + sex + race, PS within strata",619,40396,31592,12,8.4,3.6
+"Exact on age group + sex + race, PS within strata",620,41201,32836,4.86,4.95,-0.0899999999999999
+"Exact on age group + sex + race, PS within strata",621,37111,31863,6.09,6.24,-0.15
+"Exact on age group + sex + race, PS within strata",622,32615,38131,12.8,9.88,2.92
+"Exact on age group + sex + race, PS within strata",623,36747,31498,7.01,7.04,-0.0300000000000002
+"Exact on age group + sex + race, PS within strata",624,34395,35632,6.18,9.11,-2.93
+"Exact on age group + sex + race, PS within strata",625,41468,32989,7.82,7.24,0.58
+"Exact on age group + sex + race, PS within strata",626,39259,33109,6.84,7.18,-0.34
+"Exact on age group + sex + race, PS within strata",627,33642,39051,39.73,7.51,32.22
+"Exact on age group + sex + race, PS within strata",628,31400,37324,12,13.43,-1.43
+"Exact on age group + sex + race, PS within strata",629,34207,35157,6.74,16.96,-10.22
+"Exact on age group + sex + race, PS within strata",630,35134,37295,6.42,9.58,-3.16
+"Exact on age group + sex + race, PS within strata",631,40058,33177,11.73,5.06,6.67
+"Exact on age group + sex + race, PS within strata",632,37326,37608,6.26,8.46,-2.2
+"Exact on age group + sex + race, PS within strata",633,34867,37356,7.54,7.73,-0.19
+"Exact on age group + sex + race, PS within strata",634,40189,39311,9.69,9.14,0.549999999999999
+"Exact on age group + sex + race, PS within strata",635,40608,31661,11.01,8.51,2.5
+"Exact on age group + sex + race, PS within strata",636,40671,37238,6.44,8.8,-2.36
+"Exact on age group + sex + race, PS within strata",637,33662,31432,8.46,5.52,2.94
+"Exact on age group + sex + race, PS within strata",638,39061,31706,11.1,5.97,5.13
+"Exact on age group + sex + race, PS within strata",639,38591,40038,8.25,7.35,0.9
+"Exact on age group + sex + race, PS within strata",640,36601,36335,6.73,7.57,-0.84
+"Exact on age group + sex + race, PS within strata",641,37387,36801,10.7,6.36,4.34
+"Exact on age group + sex + race, PS within strata",642,32179,36779,8.07,7.62,0.45
+"Exact on age group + sex + race, PS within strata",643,40485,36649,10.1,6.59,3.51
+"Exact on age group + sex + race, PS within strata",644,34300,33001,19.5,12.2,7.3
+"Exact on age group + sex + race, PS within strata",645,33562,39869,4.99,4.4,0.59
+"Exact on age group + sex + race, PS within strata",646,32127,34292,16.96,5.62,11.34
+"Exact on age group + sex + race, PS within strata",647,36268,34731,5.43,6.6,-1.17
+"Exact on age group + sex + race, PS within strata",648,38995,36653,5.65,9.43,-3.78
+"Exact on age group + sex + race, PS within strata",649,38970,41220,15.33,14.42,0.91
+"Exact on age group + sex + race, PS within strata",650,31764,38023,5.92,10.1,-4.18
+"Exact on age group + sex + race, PS within strata",651,31546,34674,10,14.7,-4.7
+"Exact on age group + sex + race, PS within strata",652,31962,32017,5.95,7.76,-1.81
+"Exact on age group + sex + race, PS within strata",653,36211,33108,21.99,13.1,8.89
+"Exact on age group + sex + race, PS within strata",654,34819,31720,17.1,7.24,9.86
+"Exact on age group + sex + race, PS within strata",655,33324,34079,8.37,11.8,-3.43
+"Exact on age group + sex + race, PS within strata",656,36251,38660,11.19,15.9,-4.71
+"Exact on age group + sex + race, PS within strata",657,35385,37361,11.4,6.3,5.1
+"Exact on age group + sex + race, PS within strata",658,40930,32586,9.05,12.9,-3.85
+"Exact on age group + sex + race, PS within strata",659,38651,36108,15.1,11.5,3.6
+"Exact on age group + sex + race, PS within strata",660,38249,34723,3.74,4.3,-0.56
+"Exact on age group + sex + race, PS within strata",661,34710,33496,7.66,10,-2.34
+"Exact on age group + sex + race, PS within strata",662,34824,36818,4.01,5.48,-1.47
+"Exact on age group + sex + race, PS within strata",663,37561,39956,6.61,5.54,1.07
+"Exact on age group + sex + race, PS within strata",664,33797,33357,6.86,8.2,-1.34
+"Exact on age group + sex + race, PS within strata",665,34540,40097,7.64,6.35,1.29
+"Exact on age group + sex + race, PS within strata",666,36926,36762,5.68,6.41,-0.73
+"Exact on age group + sex + race, PS within strata",667,31813,37140,5.57,4.79,0.78
+"Exact on age group + sex + race, PS within strata",668,39435,31152,5.23,3.97,1.26
+"Exact on age group + sex + race, PS within strata",669,36081,33660,19.3,10.65,8.65
+"Exact on age group + sex + race, PS within strata",670,32141,34336,8.08,9.49,-1.41
+"Exact on age group + sex + race, PS within strata",671,36955,34696,6.74,8.14,-1.4
+"Exact on age group + sex + race, PS within strata",672,32150,31231,6.57,4.19,2.38
+"Exact on age group + sex + race, PS within strata",673,32922,31439,5.59,4.86,0.73
+"Exact on age group + sex + race, PS within strata",674,33489,33206,6.89,6.89,0
+"Exact on age group + sex + race, PS within strata",675,38100,39533,7.46,8.22,-0.760000000000001
+"Exact on age group + sex + race, PS within strata",676,35765,35692,6.24,6.68,-0.44
+"Exact on age group + sex + race, PS within strata",677,36899,33735,9.23,9.88,-0.65
+"Exact on age group + sex + race, PS within strata",678,40001,32135,5.49,8.4,-2.91
+"Exact on age group + sex + race, PS within strata",679,33146,31740,5.6,3.56,2.04
+"Exact on age group + sex + race, PS within strata",680,39592,36066,12.4,6.84,5.56
+"Exact on age group + sex + race, PS within strata",681,32671,32250,42.6,3.05,39.55
+"Exact on age group + sex + race, PS within strata",682,39154,31496,6.82,6.82,0
+"Exact on age group + sex + race, PS within strata",683,40351,38322,5.2,5.7,-0.5
+"Exact on age group + sex + race, PS within strata",684,38823,33227,6.69,4.52,2.17
+"Exact on age group + sex + race, PS within strata",685,37244,39024,6,7.09,-1.09
+"Exact on age group + sex + race, PS within strata",686,33225,33712,5.12,5.19,-0.0700000000000003
+"Exact on age group + sex + race, PS within strata",687,37957,32917,9.32,7.21,2.11
+"Exact on age group + sex + race, PS within strata",688,36018,32089,11.5,5.87,5.63
+"Exact on age group + sex + race, PS within strata",689,37874,33625,18.78,12.1,6.68
+"Exact on age group + sex + race, PS within strata",690,40124,37133,18.7,7.11,11.59
+"Exact on age group + sex + race, PS within strata",691,34797,34338,8.96,7.69,1.27
+"Exact on age group + sex + race, PS within strata",692,31407,41105,10.9,7.09,3.81
+"Exact on age group + sex + race, PS within strata",693,39792,36555,9.3,11.2,-1.9
+"Exact on age group + sex + race, PS within strata",694,35455,40951,9.33,9.73,-0.4
+"Exact on age group + sex + race, PS within strata",695,31452,34615,11.9,8.11,3.79
+"Exact on age group + sex + race, PS within strata",696,38703,34375,9.96,5.84,4.12
+"Exact on age group + sex + race, PS within strata",697,37460,39958,11.9,10.3,1.6
+"Exact on age group + sex + race, PS within strata",698,37792,40988,8.12,9.12,-1
+"Exact on age group + sex + race, PS within strata",699,38467,34456,4.11,5.36,-1.25
+"Exact on age group + sex + race, PS within strata",700,37457,35092,7.23,7.28,-0.0499999999999998
+"Exact on age group + sex + race, PS within strata",701,39659,41076,6.9,6.13,0.77
+"Exact on age group + sex + race, PS within strata",702,38725,38696,10.8,13.9,-3.1
+"Exact on age group + sex + race, PS within strata",703,40118,40425,12,9.06,2.94
+"Exact on age group + sex + race, PS within strata",704,38826,36831,9.74,8.16,1.58
+"Propensity score only",1,37881,33778,6.42,8.53,-2.11
+"Propensity score only",2,37879,33081,7.47,8.56,-1.09
+"Propensity score only",3,35655,36674,10.21,7.45,2.76
+"Propensity score only",4,37533,33228,10.1,14.33,-4.23
+"Propensity score only",5,35488,38859,9.85,9.05,0.799999999999999
+"Propensity score only",6,35838,37715,7.84,7.28,0.56
+"Propensity score only",7,34499,34637,8.61,8.96,-0.350000000000001
+"Propensity score only",8,38797,31273,8.18,10.4,-2.22
+"Propensity score only",9,34500,36311,8.37,7.61,0.759999999999999
+"Propensity score only",10,39335,38679,19,10.83,8.17
+"Propensity score only",11,36539,39422,8.79,9.23,-0.440000000000001
+"Propensity score only",12,36518,38243,9.76,10.4,-0.640000000000001
+"Propensity score only",13,31486,39896,12.8,6.64,6.16
+"Propensity score only",14,34776,32104,5.74,7.79,-2.05
+"Propensity score only",15,36087,31325,7.29,7.38,-0.0899999999999999
+"Propensity score only",16,35348,31899,9.4,6.6,2.8
+"Propensity score only",17,32738,35531,5.93,6.76,-0.83
+"Propensity score only",18,33239,35572,7.39,6.39,1
+"Propensity score only",19,36894,40725,7.71,7.14,0.57
+"Propensity score only",20,37383,31429,6.31,8.34,-2.03
+"Propensity score only",21,39356,32114,7.38,7.7,-0.32
+"Propensity score only",22,37425,40452,8.64,9.7,-1.06
+"Propensity score only",23,35678,33283,10.12,6.21,3.91
+"Propensity score only",24,36796,34333,9.93,10.1,-0.17
+"Propensity score only",25,33574,33223,6.66,11.9,-5.24
+"Propensity score only",26,35497,34398,7.82,10.8,-2.98
+"Propensity score only",27,33270,35186,7.5,5.97,1.53
+"Propensity score only",28,35584,31831,8.38,8.55,-0.17
+"Propensity score only",29,34291,34004,5.63,8.88,-3.25
+"Propensity score only",30,40331,37766,7.97,10.1,-2.13
+"Propensity score only",31,33130,33770,6.03,6.64,-0.609999999999999
+"Propensity score only",32,33042,37212,7.77,9.44,-1.67
+"Propensity score only",33,38236,38726,7.36,10.4,-3.04
+"Propensity score only",34,41306,38758,7.5,6.97,0.53
+"Propensity score only",35,39782,40702,7.67,8.2,-0.529999999999999
+"Propensity score only",36,38786,35023,15.42,6.34,9.08
+"Propensity score only",37,34669,31391,8.08,9.67,-1.59
+"Propensity score only",38,34790,35035,10.4,8.15,2.25
+"Propensity score only",39,34303,33467,13.1,7.56,5.54
+"Propensity score only",40,36915,36247,15.2,12.4,2.8
+"Propensity score only",41,38681,32008,8.39,5.96,2.43
+"Propensity score only",42,32334,37311,10.56,11.46,-0.9
+"Propensity score only",43,35525,39147,10.3,7.79,2.51
+"Propensity score only",44,40828,33527,5.56,7.43,-1.87
+"Propensity score only",45,33635,37815,5.66,10.4,-4.74
+"Propensity score only",46,34111,41436,7.42,12,-4.58
+"Propensity score only",47,37936,35961,6.44,6.73,-0.29
+"Propensity score only",48,36070,40369,6.17,11.19,-5.02
+"Propensity score only",49,39028,32727,7.1,14.51,-7.41
+"Propensity score only",50,36883,38065,7.89,6.42,1.47
+"Propensity score only",51,37640,35407,7.51,11.1,-3.59
+"Propensity score only",52,40534,36390,10.3,8.88,1.42
+"Propensity score only",53,41191,38364,7.7,11.1,-3.4
+"Propensity score only",54,33876,38700,9.23,6.71,2.52
+"Propensity score only",55,32663,31220,6.86,8.37,-1.51
+"Propensity score only",56,34310,37886,5.15,6.22,-1.07
+"Propensity score only",57,40890,38494,6.43,12.53,-6.1
+"Propensity score only",58,36398,41207,6.95,9.12,-2.17
+"Propensity score only",59,34311,31744,7.11,10.21,-3.1
+"Propensity score only",60,41203,32592,5.11,11.46,-6.35
+"Propensity score only",61,34086,34128,10.83,5.56,5.27
+"Propensity score only",62,41063,34245,8.69,8.87,-0.18
+"Propensity score only",63,39378,35874,6.31,7.84,-1.53
+"Propensity score only",64,41044,39758,4.43,9.5,-5.07
+"Propensity score only",65,37778,35437,8.88,7.33,1.55
+"Propensity score only",66,40739,35080,4.68,7.48,-2.8
+"Propensity score only",67,31945,35312,6.62,12.8,-6.18
+"Propensity score only",68,31386,41360,7.95,7.41,0.54
+"Propensity score only",69,33696,38568,10.6,8.69,1.91
+"Propensity score only",70,39772,37394,7.02,8.46,-1.44
+"Propensity score only",71,37494,33694,7.65,8.46,-0.81
+"Propensity score only",72,39892,34145,11.9,7.67,4.23
+"Propensity score only",73,37091,34877,8.78,7.05,1.73
+"Propensity score only",74,39997,38825,13.52,7.43,6.09
+"Propensity score only",75,34649,33071,12.8,8.32,4.48
+"Propensity score only",76,37648,41314,9.58,6.73,2.85
+"Propensity score only",77,38028,31520,11.2,12.53,-1.33
+"Propensity score only",78,39872,33500,10.12,8.61,1.51
+"Propensity score only",79,38689,32550,9.82,6.96,2.86
+"Propensity score only",80,32268,32770,10.83,11.1,-0.27
+"Propensity score only",81,34586,39761,8.38,20,-11.62
+"Propensity score only",82,39877,40398,22.54,6.22,16.32
+"Propensity score only",83,39277,37588,18.6,10.38,8.22
+"Propensity score only",84,32984,37801,6.38,12.5,-6.12
+"Propensity score only",85,38032,40339,7.9,8.56,-0.66
+"Propensity score only",86,38617,40899,11.37,6.2,5.17
+"Propensity score only",87,32066,35608,12.4,15.78,-3.38
+"Propensity score only",88,35745,40454,10.2,6.47,3.73
+"Propensity score only",89,36847,32891,11.9,11.8,0.0999999999999996
+"Propensity score only",90,40637,36075,8.02,7.83,0.19
+"Propensity score only",91,34393,34547,7.92,8.11,-0.19
+"Propensity score only",92,39454,38860,9.63,6.39,3.24
+"Propensity score only",93,35766,35989,11.3,12.5,-1.2
+"Propensity score only",94,39796,37263,11.9,7.01,4.89
+"Propensity score only",95,31380,35482,13.9,8.9,5
+"Propensity score only",96,40954,38992,12.6,7,5.6
+"Propensity score only",97,33207,35108,15,8.03,6.97
+"Propensity score only",98,40211,40821,15.1,6.65,8.45
+"Propensity score only",99,41218,32112,9.4,14.3,-4.9
+"Propensity score only",100,31434,36240,10.7,9.35,1.35
+"Propensity score only",101,37916,34443,9.69,10.2,-0.51
+"Propensity score only",102,35564,35915,10.8,9.14,1.66
+"Propensity score only",103,41194,36815,15.51,9.53,5.98
+"Propensity score only",104,33168,40953,9.58,9.67,-0.0899999999999999
+"Propensity score only",105,31345,32249,9.21,7.72,1.49
+"Propensity score only",106,37440,37609,6.5,8.61,-2.11
+"Propensity score only",107,37628,41032,10.9,7.18,3.72
+"Propensity score only",108,39755,36965,11.64,8.02,3.62
+"Propensity score only",109,37708,36645,10.92,8.69,2.23
+"Propensity score only",110,38280,41466,9.32,7.94,1.38
+"Propensity score only",111,38508,40688,9.58,6.92,2.66
+"Propensity score only",112,40459,32164,10.5,5.89,4.61
+"Propensity score only",113,41255,37493,9.67,8.61,1.06
+"Propensity score only",114,37329,38687,7.06,4.81,2.25
+"Propensity score only",115,32388,39529,9.95,7.22,2.73
+"Propensity score only",116,32742,38074,8.16,8.81,-0.65
+"Propensity score only",117,40474,40431,7.21,6.77,0.44
+"Propensity score only",118,40977,37947,12.17,9,3.17
+"Propensity score only",119,31274,40055,46.9,8.61,38.29
+"Propensity score only",120,34627,40610,9.05,8.92,0.130000000000001
+"Propensity score only",121,33565,34929,9.94,8.65,1.29
+"Propensity score only",122,41326,32523,7.78,8.24,-0.46
+"Propensity score only",123,34851,39018,8.5,8.23,0.27
+"Propensity score only",124,38429,39753,8.02,10.29,-2.27
+"Propensity score only",125,40606,37056,11.1,9.14,1.96
+"Propensity score only",126,37573,38558,7.95,10.1,-2.15
+"Propensity score only",127,39794,39650,8.33,9.4,-1.07
+"Propensity score only",128,34152,40587,7.11,7.18,-0.0699999999999994
+"Propensity score only",129,41149,34463,7.85,7.01,0.84
+"Propensity score only",130,32977,38038,8.95,9.09,-0.140000000000001
+"Propensity score only",131,41036,36164,8.52,8.25,0.27
+"Propensity score only",132,35741,39615,7.92,6.25,1.67
+"Propensity score only",133,38226,39862,11.5,9.32,2.18
+"Propensity score only",134,39279,40849,4.06,11.5,-7.44
+"Propensity score only",135,38045,34108,10.6,5.43,5.17
+"Propensity score only",136,38347,38336,5.9,5.7,0.2
+"Propensity score only",137,33437,39962,7.38,6.65,0.73
+"Propensity score only",138,40908,32225,6.94,8.95,-2.01
+"Propensity score only",139,33518,35280,4.99,7.95,-2.96
+"Propensity score only",140,39272,32494,9.43,6.8,2.63
+"Propensity score only",141,40020,40911,6.25,7.72,-1.47
+"Propensity score only",142,33190,31503,5.84,6.9,-1.06
+"Propensity score only",143,32303,34109,6.84,6.86,-0.0200000000000005
+"Propensity score only",144,39058,39979,11.2,7.51,3.69
+"Propensity score only",145,35330,34335,6.45,6.69,-0.24
+"Propensity score only",146,36741,39041,7.84,11.64,-3.8
+"Propensity score only",147,38915,40434,11.2,6.04,5.16
+"Propensity score only",148,41437,40612,9.11,8.96,0.149999999999999
+"Propensity score only",149,31210,35607,11.7,13.16,-1.46
+"Propensity score only",150,36002,32640,12.1,9.76,2.34
+"Propensity score only",151,39191,32910,6.7,6.05,0.65
+"Propensity score only",152,32601,35846,7.09,6.58,0.51
+"Propensity score only",153,33426,39213,12.5,10.65,1.85
+"Propensity score only",154,33468,39432,9.73,11.46,-1.73
+"Propensity score only",155,34052,35713,5.55,8.27,-2.72
+"Propensity score only",156,35441,39294,9.36,6.71,2.65
+"Propensity score only",157,32304,33731,9.4,5.78,3.62
+"Propensity score only",158,40378,33750,9.36,6.52,2.84
+"Propensity score only",159,33604,38350,8.87,7.59,1.28
+"Propensity score only",160,35957,40322,16.1,6.49,9.61
+"Propensity score only",161,37541,32605,8.78,7.63,1.15
+"Propensity score only",162,39935,34712,5.77,7.26,-1.49
+"Propensity score only",163,38222,36246,38,8.74,29.26
+"Propensity score only",164,32251,41264,18.2,6.84,11.36
+"Propensity score only",165,34454,32440,8.78,14.15,-5.37
+"Propensity score only",166,36851,35619,7.34,21.53,-14.19
+"Propensity score only",167,37856,34739,7.99,2.65,5.34
+"Propensity score only",168,38519,35935,7.51,5.76,1.75
+"Propensity score only",169,39189,41449,7.1,2.13,4.97
+"Propensity score only",170,32577,39568,7.42,3.05,4.37
+"Propensity score only",171,38472,33988,10.5,2.62,7.88
+"Propensity score only",172,34640,35042,8.02,5.58,2.44
+"Propensity score only",173,38831,36802,5.37,3.22,2.15
+"Propensity score only",174,34548,32616,6.04,7.89,-1.85
+"Propensity score only",175,32767,39248,8.15,9.4,-1.25
+"Propensity score only",176,34822,40317,13.97,7.47,6.5
+"Propensity score only",177,38186,37436,16,18.69,-2.69
+"Propensity score only",178,40308,40694,10.38,5.07,5.31
+"Propensity score only",179,36813,40949,12.2,3.86,8.34
+"Propensity score only",180,31534,32118,6.76,16,-9.24
+"Propensity score only",181,38374,33400,5.41,7.67,-2.26
+"Propensity score only",182,38178,37030,7.03,6.52,0.510000000000001
+"Propensity score only",183,39716,39186,10.8,9.4,1.4
+"Propensity score only",184,35567,31160,8,7.98,0.0199999999999996
+"Propensity score only",185,38506,33321,6.74,8.52,-1.78
+"Propensity score only",186,32947,34843,8.27,24.6,-16.33
+"Propensity score only",187,38601,38773,32.44,9.58,22.86
+"Propensity score only",188,34604,32930,6.25,4.64,1.61
+"Propensity score only",189,33487,34742,6.36,10.9,-4.54
+"Propensity score only",190,33529,35493,9.55,10.65,-1.1
+"Propensity score only",191,36079,38246,5.22,6.6,-1.38
+"Propensity score only",192,31522,32566,5.87,6.33,-0.46
+"Propensity score only",193,36944,33425,10.8,5.74,5.06
+"Propensity score only",194,39992,33492,9.01,8.03,0.98
+"Propensity score only",195,40471,37565,6.47,9.3,-2.83
+"Propensity score only",196,32689,36720,6.99,6.51,0.48
+"Propensity score only",197,39315,35233,8.89,8.08,0.81
+"Propensity score only",198,36969,37122,7.48,6.84,0.640000000000001
+"Propensity score only",199,37389,37136,15.1,4.4,10.7
+"Propensity score only",200,31924,31483,5.02,6.76,-1.74
+"Propensity score only",201,34550,31748,6.79,11.7,-4.91
+"Propensity score only",202,41422,38613,6.14,6.87,-0.73
+"Propensity score only",203,32363,39707,6.93,6.77,0.16
+"Propensity score only",204,31363,36169,8.47,10.8,-2.33
+"Propensity score only",205,35464,40350,5.9,10.3,-4.4
+"Propensity score only",206,36466,41135,5.38,7.24,-1.86
+"Propensity score only",207,37006,37038,11.19,15.4,-4.21
+"Propensity score only",208,31508,39086,11.1,14.4,-3.3
+"Propensity score only",209,32668,31570,8.69,6.72,1.97
+"Propensity score only",210,33755,34203,6.55,6.16,0.39
+"Propensity score only",211,36249,34700,11.55,9.9,1.65
+"Propensity score only",212,38340,34319,12.3,10.29,2.01
+"Propensity score only",213,34377,36675,7.79,7.54,0.25
+"Propensity score only",214,34719,38426,6.64,7.23,-0.590000000000001
+"Propensity score only",215,35261,39141,8.21,8.26,-0.0499999999999989
+"Propensity score only",216,40530,32036,6.64,7.56,-0.92
+"Propensity score only",217,34305,32960,6.2,8.04,-1.84
+"Propensity score only",218,32517,35955,9.51,8.46,1.05
+"Propensity score only",219,32794,31164,3.94,9.68,-5.74
+"Propensity score only",220,39340,33949,10.56,8.52,2.04
+"Propensity score only",221,39820,34642,9.85,10.3,-0.450000000000001
+"Propensity score only",222,35958,35067,8.43,6.88,1.55
+"Propensity score only",223,32491,36159,4.83,14.8,-9.97
+"Propensity score only",224,36319,36534,11.64,5.28,6.36
+"Propensity score only",225,38575,37751,8.78,9.15,-0.370000000000001
+"Propensity score only",226,35237,36194,8.06,7.98,0.0800000000000001
+"Propensity score only",227,33230,35863,8.97,7.07,1.9
+"Propensity score only",228,32564,36478,10.4,10.4,0
+"Propensity score only",229,32691,39230,10.6,5.67,4.93
+"Propensity score only",230,36148,33934,8.78,7.06,1.72
+"Propensity score only",231,40596,34284,6.76,9.87,-3.11
+"Propensity score only",232,34184,41236,11.2,8.52,2.68
+"Propensity score only",233,31268,32467,6.12,7.21,-1.09
+"Propensity score only",234,35722,39502,9.4,11.4,-2
+"Propensity score only",235,37804,37296,8.05,7.82,0.23
+"Propensity score only",236,38323,39838,7.22,6.83,0.39
+"Propensity score only",237,38920,35397,4.83,16.1,-11.27
+"Propensity score only",238,40980,40661,4.57,6.09,-1.52
+"Propensity score only",239,33585,41025,10.2,7.55,2.65
+"Propensity score only",240,33634,35071,6.58,10.9,-4.32
+"Propensity score only",241,35214,36362,23.92,5.76,18.16
+"Propensity score only",242,35529,39618,8.61,7.77,0.84
+"Propensity score only",243,35679,34084,7.79,20.1,-12.31
+"Propensity score only",244,39930,33552,7.88,8.03,-0.149999999999999
+"Propensity score only",245,40759,37646,6.07,7.37,-1.3
+"Propensity score only",246,32071,32900,8.7,7,1.7
+"Propensity score only",247,33616,35829,6.86,7.05,-0.19
+"Propensity score only",248,32868,38027,7.67,14.79,-7.12
+"Propensity score only",249,36176,37374,7.14,8.25,-1.11
+"Propensity score only",250,33751,37767,33,5.46,27.54
+"Propensity score only",251,39199,38351,14.4,8.87,5.53
+"Propensity score only",252,39646,40439,11.28,7.65,3.63
+"Propensity score only",253,33121,31388,7.68,6.6,1.08
+"Propensity score only",254,40408,31800,9.76,7.73,2.03
+"Propensity score only",255,31529,41464,4.19,7.91,-3.72
+"Propensity score only",256,39374,34037,5.94,7.4,-1.46
+"Propensity score only",257,35290,35554,12.6,13.2,-0.6
+"Propensity score only",258,32745,36005,6.32,6.27,0.0500000000000007
+"Propensity score only",259,33827,39115,8.07,8.05,0.0199999999999996
+"Propensity score only",260,36400,39347,7.91,9.94,-2.03
+"Propensity score only",261,33709,33272,7.32,6.16,1.16
+"Propensity score only",262,34901,36200,19.51,7.93,11.58
+"Propensity score only",263,39732,37260,10.83,6.57,4.26
+"Propensity score only",264,41238,39653,9.36,7.8,1.56
+"Propensity score only",265,34283,35198,8.89,7.39,1.5
+"Propensity score only",266,37131,40335,12.35,5.77,6.58
+"Propensity score only",267,40200,32429,7.32,7.38,-0.0599999999999996
+"Propensity score only",268,40925,35423,7.71,7.24,0.47
+"Propensity score only",269,41223,40000,7.32,6.19,1.13
+"Propensity score only",270,41005,41439,8.46,6.93,1.53
+"Propensity score only",271,31767,40877,5.03,7.76,-2.73
+"Propensity score only",272,32214,32298,8.11,7.11,0.999999999999999
+"Propensity score only",273,35709,34590,7.87,7.97,-0.0999999999999996
+"Propensity score only",274,37996,35559,5.27,5.66,-0.390000000000001
+"Propensity score only",275,40569,40518,6.73,17.5,-10.77
+"Propensity score only",276,32531,32540,12.7,17.33,-4.63
+"Propensity score only",277,35329,33483,8.61,5.76,2.85
+"Propensity score only",278,33730,35284,28.7,7.5,21.2
+"Propensity score only",279,40850,31702,8.49,6.18,2.31
+"Propensity score only",280,38143,33536,7.71,8.88,-1.17
+"Propensity score only",281,34641,39097,11.55,9.96,1.59
+"Propensity score only",282,39802,40974,6.25,6.98,-0.73
+"Propensity score only",283,33744,38830,31.5,6.55,24.95
+"Propensity score only",284,31787,39254,14.6,9.45,5.15
+"Propensity score only",285,38614,41472,8.56,8.5,0.0600000000000005
+"Propensity score only",286,38673,35625,16.2,7.37,8.83
+"Propensity score only",287,35078,31947,6.33,8.3,-1.97
+"Propensity score only",288,38752,33852,145,6.18,138.82
+"Propensity score only",289,31399,37002,6.92,10,-3.08
+"Propensity score only",290,31527,37358,9.14,7.89,1.25
+"Propensity score only",291,38580,38087,10.8,9.14,1.66
+"Propensity score only",292,31154,38501,45.2,5.17,40.03
+"Propensity score only",293,35936,39334,11.55,8.03,3.52
+"Propensity score only",294,31471,34120,5.92,6.16,-0.24
+"Propensity score only",295,32812,34415,9.78,5.62,4.16
+"Propensity score only",296,39158,39728,8.32,7.59,0.73
+"Propensity score only",297,40110,33871,7.94,13.34,-5.4
+"Propensity score only",298,35505,36085,9.24,15.33,-6.09
+"Propensity score only",299,40512,36214,7.9,5.29,2.61
+"Propensity score only",300,40583,38751,7.89,9.2,-1.31
+"Propensity score only",301,36050,41334,7.1,8.57,-1.47
+"Propensity score only",302,40613,31679,8.22,10.21,-1.99
+"Propensity score only",303,32239,34051,5.49,9.4,-3.91
+"Propensity score only",304,35999,40879,9.58,8.29,1.29
+"Propensity score only",305,37652,31946,10.1,8.18,1.92
+"Propensity score only",306,40711,33614,13.4,9.58,3.82
+"Propensity score only",307,33327,36220,11,11.19,-0.19
+"Propensity score only",308,33992,36440,6.24,9.58,-3.34
+"Propensity score only",309,35703,33935,6.95,8.32,-1.37
+"Propensity score only",310,32086,41260,8.61,6.61,2
+"Propensity score only",311,37283,41281,8.59,8.18,0.41
+"Propensity score only",312,38162,32609,8.52,7.01,1.51
+"Propensity score only",313,32924,33347,15.2,5.5,9.7
+"Propensity score only",314,36469,31559,6.16,8.58,-2.42
+"Propensity score only",315,34114,34934,10.9,6.76,4.14
+"Propensity score only",316,32829,35430,5.42,9.14,-3.72
+"Propensity score only",317,38455,36941,12.8,7.86,4.94
+"Propensity score only",318,40721,37522,7.96,7.54,0.42
+"Propensity score only",319,37206,39320,4.77,5.98,-1.21
+"Propensity score only",320,36197,36638,11.19,12.9,-1.71
+"Propensity score only",321,37692,34220,7.28,10,-2.72
+"Propensity score only",322,31501,34856,11.37,10.6,0.77
+"Propensity score only",323,32892,33464,9.47,6.21,3.26
+"Propensity score only",324,35349,32570,6.38,8.81,-2.43
+"Propensity score only",325,40383,34274,15.5,8.78,6.72
+"Propensity score only",326,38937,34391,11.1,9.02,2.08
+"Propensity score only",327,31550,35372,8.12,8.09,0.0299999999999994
+"Propensity score only",328,34345,36278,6.65,10.4,-3.75
+"Propensity score only",329,35458,36903,6.36,6.11,0.25
+"Propensity score only",330,36707,37612,6.37,9.95,-3.58
+"Propensity score only",331,39004,39348,10.03,9.14,0.889999999999999
+"Propensity score only",332,39351,40655,9.85,9.29,0.56
+"Propensity score only",333,32706,33002,6.25,7.2,-0.95
+"Propensity score only",334,32925,33307,6.14,6.7,-0.56
+"Propensity score only",335,38149,35790,8.87,9.47,-0.600000000000001
+"Propensity score only",336,33971,41165,9.94,8.78,1.16
+"Propensity score only",337,36165,37812,8.31,7.03,1.28
+"Propensity score only",338,39452,32946,9.75,9.58,0.17
+"Propensity score only",339,32688,34562,7.4,10.83,-3.43
+"Propensity score only",340,41303,34595,8.38,8.78,-0.399999999999999
+"Propensity score only",341,31167,36363,6.69,7.7,-1.01
+"Propensity score only",342,34078,38011,7.71,7.94,-0.23
+"Propensity score only",343,38802,33576,7.47,7.72,-0.25
+"Propensity score only",344,32918,34584,7.47,5.76,1.71
+"Propensity score only",345,39215,38678,15.1,14.06,1.04
+"Propensity score only",346,36571,32042,9.67,6.98,2.69
+"Propensity score only",347,34768,35018,8.12,9.96,-1.84
+"Propensity score only",348,36632,41375,7.98,9.05,-1.07
+"Propensity score only",349,40685,33916,8.96,6.67,2.29
+"Propensity score only",350,37887,34148,12.08,7.85,4.23
+"Propensity score only",351,31739,35922,6.23,12.1,-5.87
+"Propensity score only",352,33020,36725,16.1,9.62,6.48
+"Propensity score only",353,36481,39790,8.13,9.23,-1.1
+"Propensity score only",354,33328,34581,9.33,10.21,-0.880000000000001
+"Propensity score only",355,32389,38384,8.96,16.78,-7.82
+"Propensity score only",356,40299,34136,7.91,7.61,0.3
+"Propensity score only",357,37257,34609,5.12,8.78,-3.66
+"Propensity score only",358,38597,40843,11.2,6.95,4.25
+"Propensity score only",359,39054,35077,9.49,6.98,2.51
+"Propensity score only",360,32436,31517,5.88,6.36,-0.48
+"Propensity score only",361,37352,31926,7.68,5.65,2.03
+"Propensity score only",362,37954,34875,16.9,4.14,12.76
+"Propensity score only",363,36464,37071,12.17,9.95,2.22
+"Propensity score only",364,34165,31524,9.4,7.97,1.43
+"Propensity score only",365,38819,39110,9.93,9.05,0.879999999999999
+"Propensity score only",366,33200,39413,5.3,6,-0.7
+"Propensity score only",367,34212,34254,4.83,5.36,-0.53
+"Propensity score only",368,36986,31223,6.47,8.18,-1.71
+"Propensity score only",369,40235,31221,9.99,6.8,3.19
+"Propensity score only",370,32897,33563,10.2,5.36,4.84
+"Propensity score only",371,35686,36760,19.7,8.85,10.85
+"Propensity score only",372,34557,32591,10.6,8.63,1.97
+"Propensity score only",373,38817,31213,10.56,12.7,-2.14
+"Propensity score only",374,32360,37048,7.3,18.33,-11.03
+"Propensity score only",375,32632,39171,9.58,6.77,2.81
+"Propensity score only",376,37151,33362,6.83,7.64,-0.81
+"Propensity score only",377,37697,33530,8.82,6.77,2.05
+"Propensity score only",378,37455,40239,10.1,8.36,1.74
+"Propensity score only",379,33838,40812,9.14,5.39,3.75
+"Propensity score only",380,32755,35399,7.43,9.47,-2.04
+"Propensity score only",381,33331,34209,7.7,5.78,1.92
+"Propensity score only",382,31778,32997,16.3,11.1,5.2
+"Propensity score only",383,34068,40630,7.64,5.87,1.77
+"Propensity score only",384,40446,31873,9.93,10.1,-0.17
+"Propensity score only",385,33383,33275,10.9,9.9,1
+"Propensity score only",386,40008,34002,16.3,8.61,7.69
+"Propensity score only",387,33161,38480,6.3,10.4,-4.1
+"Propensity score only",388,35188,39532,10.2,4.93,5.27
+"Propensity score only",389,34673,32932,21.3,13.9,7.4
+"Propensity score only",390,36714,31888,10.1,7.91,2.19
+"Propensity score only",391,31681,32634,5.95,6.8,-0.85
+"Propensity score only",392,32287,39702,6.6,10.38,-3.78
+"Propensity score only",393,35805,33117,12.08,7.97,4.11
+"Propensity score only",394,36428,39305,5.23,7.64,-2.41
+"Propensity score only",395,37567,40476,8.03,2.74,5.29
+"Propensity score only",396,39417,32573,4.15,8.78,-4.63
+"Propensity score only",397,40310,40244,9.4,10.2,-0.799999999999999
+"Propensity score only",398,40866,35521,8.59,5.74,2.85
+"Propensity score only",399,37471,36232,7.97,6.4,1.57
+"Propensity score only",400,38803,36357,6.9,6.64,0.260000000000001
+"Propensity score only",401,41147,33743,10.9,8.23,2.67
+"Propensity score only",402,34577,31435,8.9,7.01,1.89
+"Propensity score only",403,35910,32520,6.19,7.29,-1.1
+"Propensity score only",404,40404,31518,10.8,4.83,5.97
+"Propensity score only",405,35465,32962,8.78,8.4,0.379999999999999
+"Propensity score only",406,31994,40591,12.44,5.72,6.72
+"Propensity score only",407,39436,40966,9.6,10.12,-0.52
+"Propensity score only",408,36702,33344,5.02,7.23,-2.21
+"Propensity score only",409,36819,31666,7.7,10.56,-2.86
+"Propensity score only",410,32001,32636,6.04,6.22,-0.18
+"Propensity score only",411,33955,33073,9.8,7.33,2.47
+"Propensity score only",412,35729,33643,6.26,6.34,-0.0800000000000001
+"Propensity score only",413,31921,36666,3.43,5.56,-2.13
+"Propensity score only",414,36177,38560,4.31,8.37,-4.06
+"Propensity score only",415,35473,38214,7.65,9.27,-1.62
+"Propensity score only",416,33360,39770,7.8,9.27,-1.47
+"Propensity score only",417,39300,36144,8.2,4.82,3.38
+"Propensity score only",418,33582,32098,4.26,10.56,-6.3
+"Propensity score only",419,36178,40563,5.73,12.9,-7.17
+"Propensity score only",420,38245,37700,5.08,10.83,-5.75
+"Propensity score only",421,37986,31712,19.2,4.38,14.82
+"Propensity score only",422,38077,33917,5.88,8.4,-2.52
+"Propensity score only",423,31752,40633,9.83,7.57,2.26
+"Propensity score only",424,37279,33756,16.78,6.73,10.05
+"Propensity score only",425,37426,34235,53.2,6.46,46.74
+"Propensity score only",426,40515,31134,8.65,8.2,0.450000000000001
+"Propensity score only",427,31936,35377,2.5,9.49,-6.99
+"Propensity score only",428,35960,35821,5.14,8.11,-2.97
+"Propensity score only",429,35990,32378,4.58,11.73,-7.15
+"Propensity score only",430,38677,39525,5.84,5.21,0.63
+"Propensity score only",431,33413,41428,5.27,3.07,2.2
+"Propensity score only",432,33629,40501,8.01,7.29,0.72
+"Propensity score only",433,39580,38302,8.02,24.4,-16.38
+"Propensity score only",434,39411,33093,15.6,10.12,5.48
+"Propensity score only",435,32223,34021,6.16,6.56,-0.399999999999999
+"Propensity score only",436,35328,41361,10.1,5.04,5.06
+"Propensity score only",437,35552,33841,7.61,7.62,-0.00999999999999979
+"Propensity score only",438,37730,32205,6.65,6.16,0.49
+"Propensity score only",439,39081,36850,4.58,6.48,-1.9
+"Propensity score only",440,40651,33684,6.37,9.83,-3.46
+"Propensity score only",441,41338,35287,6.94,4.42,2.52
+"Propensity score only",442,33330,36171,6.22,5.48,0.739999999999999
+"Propensity score only",443,38556,37117,9.32,5.18,4.14
+"Propensity score only",444,35180,40514,6.49,8.55,-2.06
+"Propensity score only",445,37078,39079,10.1,9.76,0.34
+"Propensity score only",446,40460,36474,8.87,10.21,-1.34
+"Propensity score only",447,37069,38534,10.92,5.55,5.37
+"Propensity score only",448,36350,32405,6.23,4.01,2.22
+"Propensity score only",449,39780,37313,5.81,4.38,1.43
+"Propensity score only",450,35755,40490,5.06,5.66,-0.6
+"Propensity score only",451,40751,31859,5.62,4.79,0.83
+"Propensity score only",452,39765,33088,5.68,7.06,-1.38
+"Propensity score only",453,36502,33469,9.92,8.73,1.19
+"Propensity score only",454,35324,33543,12.08,7.29,4.79
+"Propensity score only",455,31751,35604,7.32,5.62,1.7
+"Propensity score only",456,38553,38505,4.1,6.96,-2.86
+"Propensity score only",457,39993,31212,5.21,6.17,-0.96
+"Propensity score only",458,41185,34269,12.1,5.36,6.74
+"Propensity score only",459,33192,32138,7.36,9.21,-1.85
+"Propensity score only",460,39884,32709,8.28,6.44,1.84
+"Propensity score only",461,41089,35823,8.34,7.56,0.78
+"Propensity score only",462,41447,36160,10.65,7.8,2.85
+"Propensity score only",463,33803,32161,8.84,6.87,1.97
+"Propensity score only",464,35577,36391,8.95,3.45,5.5
+"Propensity score only",465,37261,36620,8.52,6.99,1.53
+"Propensity score only",466,41300,37623,8.78,5.39,3.39
+"Propensity score only",467,33630,32115,4.22,5.29,-1.07
+"Propensity score only",468,31913,33978,6.93,8.18,-1.25
+"Propensity score only",469,37132,36132,8.49,6.66,1.83
+"Propensity score only",470,39298,39866,4.74,6.99,-2.25
+"Propensity score only",471,31350,36907,4.45,7.98,-3.53
+"Propensity score only",472,35500,40605,5.94,4.95,0.99
+"Propensity score only",473,39569,35445,17.5,4.43,13.07
+"Propensity score only",474,35183,32768,7.83,6.74,1.09
+"Propensity score only",475,35297,33244,12.44,3.35,9.09
+"Propensity score only",476,35991,34799,6.52,3.28,3.24
+"Propensity score only",477,37089,38427,3.73,10.6,-6.87
+"Propensity score only",478,38105,36149,8,6.13,1.87
+"Propensity score only",479,41189,31382,5.49,8.66,-3.17
+"Propensity score only",480,34434,31820,4.89,7.96,-3.07
+"Propensity score only",481,34647,39040,9.94,8.87,1.07
+"Propensity score only",482,39638,40755,7.62,11.01,-3.39
+"Propensity score only",483,31877,31441,15.1,8.69,6.41
+"Propensity score only",484,33879,35149,5.11,6.66,-1.55
+"Propensity score only",485,39883,38821,7.22,3.84,3.38
+"Propensity score only",486,35891,35216,10.9,11.64,-0.74
+"Propensity score only",487,34919,39834,5.43,8.38,-2.95
+"Propensity score only",488,40286,39003,8.87,11.3,-2.43
+"Propensity score only",489,36351,32596,6.75,5.8,0.95
+"Propensity score only",490,31972,36853,10.47,8.69,1.78
+"Propensity score only",491,33972,38230,10.4,8.23,2.17
+"Propensity score only",492,39060,34293,6.85,11.3,-4.45
+"Propensity score only",493,39343,35796,10.56,6.34,4.22
+"Propensity score only",494,32696,37557,11.7,7.88,3.82
+"Propensity score only",495,32459,31258,9.32,7.47,1.85
+"Propensity score only",496,33474,32396,6.7,14.79,-8.09
+"Propensity score only",497,34813,35650,7.26,5.56,1.7
+"Propensity score only",498,35624,37993,11.1,7.98,3.12
+"Propensity score only",499,35750,31425,7.84,5.51,2.33
+"Propensity score only",500,38388,34202,8.96,22.8,-13.84
+"Propensity score only",501,36797,34325,5.46,7.23,-1.77
+"Propensity score only",502,32921,38493,6.89,4.81,2.08
+"Propensity score only",503,34307,40729,8.48,13,-4.52
+"Propensity score only",504,34848,38849,12.2,8.95,3.25
+"Propensity score only",505,36418,36117,19.6,8.88,10.72
+"Propensity score only",506,32859,36115,7.74,7.99,-0.25
+"Propensity score only",507,40427,40225,6.66,7.97,-1.31
+"Propensity score only",508,35181,40421,8.78,4.81,3.97
+"Propensity score only",509,31387,32509,5.39,5.94,-0.550000000000001
+"Propensity score only",510,33798,33821,9,8.69,0.31
+"Propensity score only",511,33965,34999,6.85,6.63,0.22
+"Propensity score only",512,34996,38791,10.8,6.21,4.59
+"Propensity score only",513,34020,40063,6.26,5.49,0.77
+"Propensity score only",514,40095,38559,8.1,7.38,0.72
+"Propensity score only",515,35685,37308,8.95,6.18,2.77
+"Propensity score only",516,35810,40564,6.89,5.71,1.18
+"Propensity score only",517,36545,33605,9.18,8.17,1.01
+"Propensity score only",518,32857,35940,17.7,6.52,11.18
+"Propensity score only",519,37826,40686,6.87,10.74,-3.87
+"Propensity score only",520,39180,31976,10.2,5.93,4.27
+"Propensity score only",521,41014,34897,9.23,6.29,2.94
+"Propensity score only",522,41355,32165,4.21,8.79,-4.58
+"Propensity score only",523,33319,36209,8.08,9.83,-1.75
+"Propensity score only",524,39535,32488,6.51,9.94,-3.43
+"Propensity score only",525,35880,33201,9.74,8.87,0.870000000000001
+"Propensity score only",526,40790,35133,9.49,7.3,2.19
+"Propensity score only",527,31308,35764,13.1,23.82,-10.72
+"Propensity score only",528,37823,41387,8.32,6.54,1.78
+"Propensity score only",529,38314,31804,9.32,5.86,3.46
+"Propensity score only",530,31577,35298,6.93,7.52,-0.59
+"Propensity score only",531,40921,36503,10.4,6.77,3.63
+"Propensity score only",532,38345,36292,8.32,6.39,1.93
+"Propensity score only",533,40153,36556,9.58,6.88,2.7
+"Propensity score only",534,36257,36065,6.39,7.52,-1.13
+"Propensity score only",535,34401,32270,6.85,7.15,-0.300000000000001
+"Propensity score only",536,35888,34905,7.39,6.65,0.739999999999999
+"Propensity score only",537,34574,37429,10.03,5.99,4.04
+"Propensity score only",538,40683,33337,8.96,6.51,2.45
+"Propensity score only",539,32357,31699,8.63,5.89,2.74
+"Propensity score only",540,32749,39124,11.8,5.08,6.72
+"Propensity score only",541,31437,32014,9.49,15.24,-5.75
+"Propensity score only",542,38824,35982,7.27,10.74,-3.47
+"Propensity score only",543,39695,32343,6.75,14.61,-7.86
+"Propensity score only",544,32908,38192,8.37,8.96,-0.590000000000002
+"Propensity score only",545,35381,36793,8.08,6.42,1.66
+"Propensity score only",546,34831,35021,8.78,10.5,-1.72
+"Propensity score only",547,39768,34683,7.75,9.75,-2
+"Propensity score only",548,40857,31317,6.68,9.37,-2.69
+"Propensity score only",549,33154,38708,7.91,6.46,1.45
+"Propensity score only",550,37385,41458,7.74,8.21,-0.470000000000001
+"Propensity score only",551,32241,32437,7.12,6.87,0.25
+"Propensity score only",552,34223,37147,8.29,7.93,0.359999999999999
+"Propensity score only",553,37964,31460,9.85,6.8,3.05
+"Propensity score only",554,38812,31361,6.42,3.85,2.57
+"Propensity score only",555,33263,37129,12.3,13.4,-1.1
+"Propensity score only",556,34507,37465,10.4,8.43,1.97
+"Propensity score only",557,40585,40025,8.86,8.85,0.00999999999999979
+"Propensity score only",558,34726,34620,18.69,10.4,8.29
+"Propensity score only",559,38418,31619,6.81,4.51,2.3
+"Propensity score only",560,36614,32283,11,7.97,3.03
+"Propensity score only",561,31158,35673,8.87,23.6,-14.73
+"Propensity score only",562,35621,32130,6.09,8.86,-2.77
+"Propensity score only",563,36045,35224,5.6,5.25,0.35
+"Propensity score only",564,31625,36904,11.2,8.64,2.56
+"Propensity score only",565,32355,31190,8.35,11.64,-3.29
+"Propensity score only",566,32198,31870,4.39,8.87,-4.48
+"Propensity score only",567,37418,33372,5.28,3.95,1.33
+"Propensity score only",568,38522,33963,7.79,5.83,1.96
+"Propensity score only",569,32813,37875,4.83,6.32,-1.49
+"Propensity score only",570,33477,35076,5.98,6.81,-0.829999999999999
+"Propensity score only",571,35571,31187,5.39,6.98,-1.59
+"Propensity score only",572,36772,34520,5.57,13.7,-8.13
+"Propensity score only",573,40041,40929,5.47,3.29,2.18
+"Propensity score only",574,31278,34234,11.6,17.5,-5.9
+"Propensity score only",575,33376,32560,6.53,6.24,0.29
+"Propensity score only",576,36786,34614,6.22,3.69,2.53
+"Propensity score only",577,31847,33280,12.1,4.48,7.62
+"Propensity score only",578,39786,34939,7.83,7,0.83
+"Propensity score only",579,35144,33726,13.5,8.83,4.67
+"Propensity score only",580,31980,32309,4.96,5.04,-0.0800000000000001
+"Propensity score only",581,31640,36587,7.67,4.36,3.31
+"Propensity score only",582,34662,35496,4.41,5.66,-1.25
+"Propensity score only",583,37771,36095,3.77,7.33,-3.56
+"Propensity score only",584,35895,35218,5.46,5.11,0.35
+"Propensity score only",585,36794,40983,8.11,6.33,1.78
+"Propensity score only",586,39599,33847,7.32,7.56,-0.239999999999999
+"Propensity score only",587,40172,36885,8.09,8.02,0.0700000000000003
+"Propensity score only",588,39363,31816,10.21,4.57,5.64
+"Propensity score only",589,36530,34101,6.23,3.94,2.29
+"Propensity score only",590,34564,31690,4.8,4.66,0.14
+"Propensity score only",591,31548,39241,6.87,7.89,-1.02
+"Propensity score only",592,33011,32199,5.89,6.29,-0.4
+"Propensity score only",593,39700,33171,4.8,6,-1.2
+"Propensity score only",594,34618,34681,5.88,6.31,-0.43
+"Propensity score only",595,33637,31822,7.94,3.45,4.49
+"Propensity score only",596,36839,38358,10.1,6.91,3.19
+"Propensity score only",597,33880,32048,6.83,6.36,0.47
+"Propensity score only",598,40743,35795,6.54,3.9,2.64
+"Propensity score only",599,40791,37462,5.07,11.1,-6.03
+"Propensity score only",600,40016,34530,9.06,8.21,0.85
+"Propensity score only",601,34150,39048,5.84,10.4,-4.56
+"Propensity score only",602,34935,31410,8.61,8.5,0.109999999999999
+"Propensity score only",603,35856,35213,6.75,6.39,0.36
+"Propensity score only",604,35171,33080,8.69,7.13,1.56
+"Propensity score only",605,40643,33928,13.9,7.66,6.24
+"Propensity score only",606,33596,38536,4.23,12.53,-8.3
+"Propensity score only",607,36294,41081,8.3,7.48,0.82
+"Propensity score only",608,33745,33240,6.46,8.22,-1.76
+"Propensity score only",609,31304,37074,4.93,6.67,-1.74
+"Propensity score only",610,32358,33627,9.22,7.48,1.74
+"Propensity score only",611,37718,38017,8.87,7.11,1.76
+"Propensity score only",612,31779,38572,9.33,9.62,-0.289999999999999
+"Propensity score only",613,38801,37492,6.54,16.5,-9.96
+"Propensity score only",614,39113,33476,6.82,13.34,-6.52
+"Propensity score only",615,39511,36307,7.33,10.21,-2.88
+"Propensity score only",616,34838,33606,11.19,5.85,5.34
+"Propensity score only",617,39735,37645,6.28,5.81,0.470000000000001
+"Propensity score only",618,31736,38694,11.3,3.38,7.92
+"Propensity score only",619,37659,32368,6.75,7.02,-0.27
+"Propensity score only",620,36291,40948,9.37,10.9,-1.53
+"Propensity score only",621,40190,37604,19,6.93,12.07
+"Propensity score only",622,35770,31156,9.35,6.58,2.77
+"Propensity score only",623,41107,32687,9.07,6.53,2.54
+"Propensity score only",624,37336,39439,6.23,9.77,-3.54
+"Propensity score only",625,38584,34470,13.5,7.7,5.8
+"Propensity score only",626,39093,37805,12,5.16,6.84
+"Propensity score only",627,35313,33725,6.45,18.9,-12.45
+"Propensity score only",628,34762,34483,12.9,6.53,6.37
+"Propensity score only",629,38936,35094,9.32,7.54,1.78
+"Propensity score only",630,38969,31746,7.96,11.28,-3.32
+"Propensity score only",631,34514,35416,11,12.1,-1.1
+"Propensity score only",632,41192,39323,9.4,12.6,-3.2
+"Propensity score only",633,38611,32552,14.7,7.55,7.15
+"Propensity score only",634,31464,31227,7.68,4.8,2.88
+"Propensity score only",635,36057,38980,7.28,8.87,-1.59
+"Propensity score only",636,33414,31248,7.38,7.05,0.33
+"Propensity score only",637,31372,35202,7.09,7.26,-0.17
+"Propensity score only",638,34781,33952,6.9,5.96,0.94
+"Propensity score only",639,32858,31162,12.08,8.18,3.9
+"Propensity score only",640,39785,32629,12.9,8.32,4.58
+"Propensity score only",641,31958,31261,6.82,8.59,-1.77
+"Propensity score only",642,33235,36401,11.3,6.89,4.41
+"Propensity score only",643,41127,35203,10.38,7.59,2.79
+"Propensity score only",644,36845,31477,7.74,6.5,1.24
+"Propensity score only",645,34849,34988,23.55,8.13,15.42
+"Propensity score only",646,36112,38658,9.15,10.3,-1.15
+"Propensity score only",647,38071,34363,8.69,6.02,2.67
+"Propensity score only",648,35169,34966,6.57,6.52,0.0500000000000007
+"Propensity score only",649,40002,31707,8.02,11.7,-3.68
+"Propensity score only",650,32931,33186,6.4,6.61,-0.21
+"Propensity score only",651,37574,34208,7.9,9.12,-1.22
+"Propensity score only",652,33249,35342,10.74,9.4,1.34
+"Propensity score only",653,36891,36279,10.4,9.25,1.15
+"Propensity score only",654,32015,31966,7.57,7.36,0.21
+"Propensity score only",655,34855,32414,11.81,10.56,1.25
+"Propensity score only",656,35882,37914,25.5,10.56,14.94
+"Propensity score only",657,38113,31420,5.75,5.04,0.71
+"Propensity score only",658,31993,38414,6.94,7.59,-0.65
+"Propensity score only",659,40122,39068,7.03,8.08,-1.05
+"Propensity score only",660,32734,34986,7.51,7.03,0.48
+"Propensity score only",661,32838,32295,6.62,8.52,-1.9
+"Propensity score only",662,37163,31973,9.14,7.6,1.54
+"Propensity score only",663,35268,31567,11.3,12.26,-0.959999999999999
+"Propensity score only",664,38701,36038,7.05,8.02,-0.97
+"Propensity score only",665,33060,40291,7.99,9.95,-1.96
+"Propensity score only",666,38910,38262,7.31,8.44,-1.13
+"Propensity score only",667,36339,34606,7.43,6.12,1.31
+"Propensity score only",668,40387,37803,7.88,7.76,0.12
+"Propensity score only",669,35424,36754,8.87,7.85,1.02
+"Propensity score only",670,32959,37040,7.22,8.87,-1.65
+"Propensity score only",671,36873,37793,10.56,7.67,2.89
+"Propensity score only",672,40177,33632,5.71,4.01,1.7
+"Propensity score only",673,39032,31998,7.23,8.09,-0.859999999999999
+"Propensity score only",674,40788,31922,6.13,8.05,-1.92
+"Propensity score only",675,37031,36155,9.18,6.28,2.9
+"Propensity score only",676,31843,34042,7,6.3,0.7
+"Propensity score only",677,38134,36520,9.4,11,-1.6
+"Propensity score only",678,32386,34474,8.61,6.01,2.6
+"Propensity score only",679,38248,41304,11.73,6.99,4.74
+"Propensity score only",680,38518,40436,6.39,5.97,0.42
+"Propensity score only",681,39020,33037,6.8,8.52,-1.72
+"Propensity score only",682,40519,33612,9.85,7.25,2.6
+"Propensity score only",683,41179,33026,9.05,7.91,1.14
+"Propensity score only",684,31781,40936,7.96,6.83,1.13
+"Propensity score only",685,37271,31747,11.3,6.01,5.29
+"Propensity score only",686,39464,33485,5.93,6.15,-0.220000000000001
+"Propensity score only",687,34141,36123,7.56,8.25,-0.69
+"Propensity score only",688,37969,38242,7.18,8.3,-1.12
+"Propensity score only",689,38554,40135,6.16,6.47,-0.31
+"Propensity score only",690,33519,33055,11.6,6.89,4.71
+"Propensity score only",691,40321,33608,6.46,5.93,0.53
+"Propensity score only",692,31186,37467,6.98,5.81,1.17
+"Propensity score only",693,35007,40768,5.65,11.19,-5.54
+"Propensity score only",694,40965,37404,9.24,4.35,4.89
+"Propensity score only",695,35113,31403,8.04,7.31,0.73
+"Propensity score only",696,41267,37765,9.08,7.9,1.18
+"Propensity score only",697,35504,34705,6.05,5.04,1.01
+"Propensity score only",698,35056,31259,6.85,3.47,3.38
+"Propensity score only",699,33559,32292,6.64,3.48,3.16
+"Propensity score only",700,38203,34945,6.06,4.84,1.22
+"Propensity score only",701,33506,39021,4.81,5.39,-0.58
+"Propensity score only",702,34515,38088,9.18,5.4,3.78
+"Propensity score only",703,36161,33789,6.17,4.67,1.5
+"Propensity score only",704,38464,31487,7.09,7.03,0.0599999999999996
+"Propensity score only",705,41093,32781,9.31,4.65,4.66
+"Propensity score only",706,34911,36713,8.61,6.99,1.62
+"Propensity score only",707,36482,37929,11.6,11.3,0.299999999999999
+"Propensity score only",708,38965,35539,7.96,5.82,2.14
+"Propensity score only",709,40396,31592,12,8.4,3.6
+"Propensity score only",710,41201,32836,4.86,4.95,-0.0899999999999999
+"Propensity score only",711,37111,31863,6.09,6.24,-0.15
+"Propensity score only",712,32615,38131,12.8,9.88,2.92
+"Propensity score only",713,36747,32149,7.01,3.61,3.4
+"Propensity score only",714,34395,35632,6.18,9.11,-2.93
+"Propensity score only",715,41468,32989,7.82,7.24,0.58
+"Propensity score only",716,39259,39051,6.84,7.51,-0.67
+"Propensity score only",717,33642,33069,39.73,9.58,30.15
+"Propensity score only",718,31400,35747,12,8.69,3.31
+"Propensity score only",719,34207,35157,6.74,16.96,-10.22
+"Propensity score only",720,35134,37304,6.42,7.48,-1.06
+"Propensity score only",721,40058,33177,11.73,5.06,6.67
+"Propensity score only",722,37326,37608,6.26,8.46,-2.2
+"Propensity score only",723,34867,37356,7.54,7.73,-0.19
+"Propensity score only",724,40189,39311,9.69,9.14,0.549999999999999
+"Propensity score only",725,40608,36642,11.01,13.88,-2.87
+"Propensity score only",726,40671,37238,6.44,8.8,-2.36
+"Propensity score only",727,33662,31432,8.46,5.52,2.94
+"Propensity score only",728,39061,31706,11.1,5.97,5.13
+"Propensity score only",729,38591,31286,8.25,5.4,2.85
+"Propensity score only",730,36601,36335,6.73,7.57,-0.84
+"Propensity score only",731,37387,36801,10.7,6.36,4.34
+"Propensity score only",732,32179,36779,8.07,7.62,0.45
+"Propensity score only",733,40485,36649,10.1,6.59,3.51
+"Propensity score only",734,34300,31208,19.5,8.09,11.41
+"Propensity score only",735,33562,39869,4.99,4.4,0.59
+"Propensity score only",736,32127,34292,16.96,5.62,11.34
+"Propensity score only",737,36268,34731,5.43,6.6,-1.17
+"Propensity score only",738,38995,36653,5.65,9.43,-3.78
+"Propensity score only",739,38970,41220,15.33,14.42,0.91
+"Propensity score only",740,31764,38023,5.92,10.1,-4.18
+"Propensity score only",741,31546,34674,10,14.7,-4.7
+"Propensity score only",742,31962,32821,5.95,5.44,0.51
+"Propensity score only",743,36211,33108,21.99,13.1,8.89
+"Propensity score only",744,34819,33959,17.1,13.4,3.7
+"Propensity score only",745,33324,34079,8.37,11.8,-3.43
+"Propensity score only",746,36251,38660,11.19,15.9,-4.71
+"Propensity score only",747,35385,37361,11.4,6.3,5.1
+"Propensity score only",748,40930,32586,9.05,12.9,-3.85
+"Propensity score only",749,38651,32409,15.1,5.22,9.88
+"Propensity score only",750,38249,34723,3.74,4.3,-0.56
+"Propensity score only",751,34710,33496,7.66,10,-2.34
+"Propensity score only",752,34824,34344,4.01,6.39,-2.38
+"Propensity score only",753,37561,35808,6.61,5.86,0.75
+"Propensity score only",754,33797,33357,6.86,8.2,-1.34
+"Propensity score only",755,34540,40097,7.64,6.35,1.29
+"Propensity score only",756,36926,36762,5.68,6.41,-0.73
+"Propensity score only",757,31813,31470,5.57,5.65,-0.0800000000000001
+"Propensity score only",758,39435,31152,5.23,3.97,1.26
+"Propensity score only",759,36081,33660,19.3,10.65,8.65
+"Propensity score only",760,32141,34336,8.08,9.49,-1.41
+"Propensity score only",761,36955,34696,6.74,8.14,-1.4
+"Propensity score only",762,32150,31231,6.57,4.19,2.38
+"Propensity score only",763,32922,31439,5.59,4.86,0.73
+"Propensity score only",764,33489,33206,6.89,6.89,0
+"Propensity score only",765,38100,39533,7.46,8.22,-0.760000000000001
+"Propensity score only",766,35765,35692,6.24,6.68,-0.44
+"Propensity score only",767,36899,33735,9.23,9.88,-0.65
+"Propensity score only",768,40001,32135,5.49,8.4,-2.91
+"Propensity score only",769,33146,31740,5.6,3.56,2.04
+"Propensity score only",770,39592,36066,12.4,6.84,5.56
+"Propensity score only",771,32671,32250,42.6,3.05,39.55
+"Propensity score only",772,39154,35645,6.82,15.5,-8.68
+"Propensity score only",773,40351,38322,5.2,5.7,-0.5
+"Propensity score only",774,38823,33227,6.69,4.52,2.17
+"Propensity score only",775,37244,39024,6,7.09,-1.09
+"Propensity score only",776,33225,33712,5.12,5.19,-0.0700000000000003
+"Propensity score only",777,37957,32917,9.32,7.21,2.11
+"Propensity score only",778,36018,32089,11.5,5.87,5.63
+"Propensity score only",779,37874,33625,18.78,12.1,6.68
+"Propensity score only",780,40124,37133,18.7,7.11,11.59
+"Propensity score only",781,34797,34338,8.96,7.69,1.27
+"Propensity score only",782,31407,37545,10.9,8.23,2.67
+"Propensity score only",783,39792,40951,9.3,9.73,-0.43
+"Propensity score only",784,35455,36555,9.33,11.2,-1.87
+"Propensity score only",785,31452,34615,11.9,8.11,3.79
+"Propensity score only",786,38703,34375,9.96,5.84,4.12
+"Propensity score only",787,37460,32964,11.9,6.3,5.6
+"Propensity score only",788,37792,36276,8.12,7.23,0.889999999999999
+"Propensity score only",789,38467,34546,4.11,7.87,-3.76
+"Propensity score only",790,36328,33925,6.43,7.08,-0.65
+"Propensity score only",791,37457,35092,7.23,7.28,-0.0499999999999998
+"Propensity score only",792,39659,41076,6.9,6.13,0.77
+"Propensity score only",793,38725,38696,10.8,13.9,-3.1
+"Propensity score only",794,40118,40425,12,9.06,2.94
+"Propensity score only",795,38826,36004,9.74,6.3,3.44

@@ -1,0 +1,96 @@
+"method","variable","level","smd"
+"Exact matching","Age","mean",-0.00759153445786248
+"Exact matching","Cotinine","mean",1.99301371618641
+"Exact matching","Agegp","20-29",-2.40396744857128e-15
+"Exact matching","Agegp","30-39",-1.30203953733429e-15
+"Exact matching","Agegp","40-49",-1.53586809214276e-15
+"Exact matching","Agegp","50-59",-2.13019842171539e-15
+"Exact matching","Agegp","60-69",-1.55222115534624e-15
+"Exact matching","Agegp","70-79",-8.38521517645937e-16
+"Exact matching","Agegp","80+",-3.84615595350322e-16
+"Exact matching","Sexn","Male",-7.40496278531496e-15
+"Exact matching","Sexn","Female",-6.73178435028632e-16
+"Exact matching","Racegp","White.Other",-2.95050139300193e-15
+"Exact matching","Racegp","Hispanic",-1.65281902816151e-15
+"Exact matching","Racegp","Black",-1.15233539435061e-15
+"Exact matching","Edugp","LessThan9th",-9.39609165829940e-16
+"Exact matching","Edugp","9thTo11th",-2.88565192028726e-15
+"Exact matching","Edugp","HSorGED",-1.80052847158927e-15
+"Exact matching","Edugp","SomeCollege",-2.09935631953105e-15
+"Exact matching","Edugp","CollegeGrad",-1.61137969309536e-15
+"1:2 matching","Age","mean",-0.0394448644532672
+"1:2 matching","Cotinine","mean",1.96111890637869
+"1:2 matching","Agegp","20-29",-0.00520597024396937
+"1:2 matching","Agegp","30-39",-0.00450459524766068
+"1:2 matching","Agegp","40-49",0.000974451032296816
+"1:2 matching","Agegp","50-59",0.00409398633956401
+"1:2 matching","Agegp","60-69",0.00651801004524395
+"1:2 matching","Agegp","70-79",-0.00281867122360379
+"1:2 matching","Agegp","80+",0.00325855032410205
+"1:2 matching","Sexn","Male",0.0118328812889908
+"1:2 matching","Sexn","Female",-0.0118328812889909
+"1:2 matching","Racegp","White.Other",-0.000771453131275744
+"1:2 matching","Racegp","Hispanic",0.000629494683437142
+"1:2 matching","Racegp","Black",0.000319229971834425
+"1:2 matching","Edugp","LessThan9th",0.13444248702756
+"1:2 matching","Edugp","9thTo11th",0.0171554585297187
+"1:2 matching","Edugp","HSorGED",-0.0975538415994156
+"1:2 matching","Edugp","SomeCollege",-0.00554159036267098
+"1:2 matching","Edugp","CollegeGrad",-0.00570439532248562
+"Propensity score matching","Age","mean",-0.0464247222861168
+"Propensity score matching","Cotinine","mean",1.98944160745945
+"Propensity score matching","Agegp","20-29",0
+"Propensity score matching","Agegp","30-39",0.0266474282465223
+"Propensity score matching","Agegp","40-49",0.0243895638043642
+"Propensity score matching","Agegp","50-59",0.00347251529505285
+"Propensity score matching","Agegp","60-69",-0.0312564068935832
+"Propensity score matching","Agegp","70-79",-0.0326642187566639
+"Propensity score matching","Agegp","80+",-0.0191275929732838
+"Propensity score matching","Sexn","Male",0.00759605654337153
+"Propensity score matching","Sexn","Female",-0.00759605654337153
+"Propensity score matching","Racegp","White.Other",-0.0466028886430019
+"Propensity score matching","Racegp","Hispanic",0.0512147519731584
+"Propensity score matching","Racegp","Black",0.0116943068284831
+"Propensity score matching","Edugp","LessThan9th",0.0735012893703531
+"Propensity score matching","Edugp","9thTo11th",0.0727606875108999
+"Propensity score matching","Edugp","HSorGED",0.00820554685514792
+"Propensity score matching","Edugp","SomeCollege",-0.0822690069789727
+"Propensity score matching","Edugp","CollegeGrad",-0.0568238482642432
+"Mahalanobis matching","Age","mean",-0.129252247791113
+"Mahalanobis matching","Cotinine","mean",2.02797435181357
+"Mahalanobis matching","Agegp","20-29",0.0326861668254914
+"Mahalanobis matching","Agegp","30-39",0.0160362701586993
+"Mahalanobis matching","Agegp","40-49",0.090075469822209
+"Mahalanobis matching","Agegp","50-59",-0.0427918757233202
+"Mahalanobis matching","Agegp","60-69",0.0344837837186765
+"Mahalanobis matching","Agegp","70-79",-0.118133470236979
+"Mahalanobis matching","Agegp","80+",-0.142107967488837
+"Mahalanobis matching","Sexn","Male",0.0735645531717477
+"Mahalanobis matching","Sexn","Female",-0.0735645531717477
+"Mahalanobis matching","Racegp","White.Other",0.059649470870376
+"Mahalanobis matching","Racegp","Hispanic",-0.0477938193664077
+"Mahalanobis matching","Racegp","Black",-0.0280526154556918
+"Mahalanobis matching","Edugp","LessThan9th",0
+"Mahalanobis matching","Edugp","9thTo11th",0
+"Mahalanobis matching","Edugp","HSorGED",0
+"Mahalanobis matching","Edugp","SomeCollege",0
+"Mahalanobis matching","Edugp","CollegeGrad",0
+"Full matching","Age","mean",-0.046237430013079
+"Full matching","Cotinine","mean",1.94223539881544
+"Full matching","Agegp","20-29",0.0284682210967287
+"Full matching","Agegp","30-39",0.0168565136958003
+"Full matching","Agegp","40-49",-0.017008565658647
+"Full matching","Agegp","50-59",0.00292401216027443
+"Full matching","Agegp","60-69",0.000640928855038216
+"Full matching","Agegp","70-79",-0.0417800130165939
+"Full matching","Agegp","80+",-0.0201546355972154
+"Full matching","Sexn","Male",0.00625958112048754
+"Full matching","Sexn","Female",-0.00625958112048284
+"Full matching","Racegp","White.Other",-0.0040425617558615
+"Full matching","Racegp","Hispanic",0.0095193926709843
+"Full matching","Racegp","Black",-0.00308785120049819
+"Full matching","Edugp","LessThan9th",0.0600540239698741
+"Full matching","Edugp","9thTo11th",-0.0163160679879116
+"Full matching","Edugp","HSorGED",-0.0346458952281735
+"Full matching","Edugp","SomeCollege",0.0121542656844181
+"Full matching","Edugp","CollegeGrad",0.00428974808164214
